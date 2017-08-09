@@ -120,7 +120,7 @@ Customers,Zákazníci,module,Magento_AdvancedCheckout
 "You cannot configure a product.","Nemožete nakonfigurovať produkt.",module,Magento_AdvancedCheckout
 "You removed the items.","Odstránili ste položky.",module,Magento_AdvancedCheckout
 "You removed the item.","Odstránili ste položku.",module,Magento_AdvancedCheckout
-"You added %1 to your shopping cart.","Pridali ste %1 do Vašeho nákupního košíku.",module,Magento_AdvancedCheckout
+"You added %1 to your shopping cart.","Pridali ste %1 do Vašeho nákupného košíka.",module,Magento_AdvancedCheckout
 "You cannot add a product.","Nemôžete pridať produkt.",module,Magento_AdvancedCheckout
 "Order by SKU","Zoradiť podľa katalógového čísla",module,Magento_AdvancedCheckout
 "The SKU was not found in the catalog.","SKU sa v katalógu nenašlo.",module,Magento_AdvancedCheckout
@@ -993,11 +993,11 @@ Authorize,Authorize,module,Magento_Braintree
 "--Please Select--","--Please Select--",module,Magento_Braintree
 "Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_Braintree
 "Credit Card Type","Credit Card Type",module,Magento_Braintree
-"Credit Card Number","Credit Card Number",module,Magento_Braintree
-"Please, enter valid Credit Card Number","Please, enter valid Credit Card Number",module,Magento_Braintree
-"Expiration Date","Expiration Date",module,Magento_Braintree
-"Please, enter valid Expiration Date","Please, enter valid Expiration Date",module,Magento_Braintree
-"Card Verification Number","Card Verification Number",module,Magento_Braintree
+"Credit Card Number","Číslo kreditnej karty",module,Magento_Braintree
+"Please, enter valid Credit Card Number","Prosím, zadajte platné číslo kreditnej karty",module,Magento_Braintree
+"Expiration Date","Dátum expirácie",module,Magento_Braintree
+"Please, enter valid Expiration Date","Prosím, zadajte platný dátum expirácie",module,Magento_Braintree
+"Card Verification Number","CVV/CVC kód",module,Magento_Braintree
 "Please, enter valid Card Verification Number","Please, enter valid Card Verification Number",module,Magento_Braintree
 ending,ending,module,Magento_Braintree
 expires,expires,module,Magento_Braintree
@@ -1008,7 +1008,7 @@ Delete,Delete,module,Magento_Braintree
 "Credit Card Information","Credit Card Information",module,Magento_Braintree
 "What is this?","What is this?",module,Magento_Braintree
 "Save for later use.","Save for later use.",module,Magento_Braintree
-"Place Order","Place Order",module,Magento_Braintree
+"Place Order","Odoslať objednávku",module,Magento_Braintree
 "This payment is not available","This payment is not available",module,Magento_Braintree
 MM,MM,module,Magento_Braintree
 YY,YY,module,Magento_Braintree
@@ -1108,18 +1108,18 @@ Unrecognized,Unrecognized,module,Magento_BraintreeTwo
 Sale,Sale,module,Magento_BraintreeTwo
 Credit,Credit,module,Magento_BraintreeTwo
 "Credit Card Type","Credit Card Type",module,Magento_BraintreeTwo
-"Credit Card Number","Credit Card Number",module,Magento_BraintreeTwo
-"Please, enter valid Credit Card Number","Please, enter valid Credit Card Number",module,Magento_BraintreeTwo
-"Expiration Date","Expiration Date",module,Magento_BraintreeTwo
-"Please, enter valid Expiration Date","Please, enter valid Expiration Date",module,Magento_BraintreeTwo
-"Card Verification Number","Card Verification Number",module,Magento_BraintreeTwo
+"Credit Card Number","Číslo kreditnej karty",module,Magento_BraintreeTwo
+"Please, enter valid Credit Card Number","Prosím, zadajte platné číslo kreditnej karty",module,Magento_BraintreeTwo
+"Expiration Date","Dátum expirácie",module,Magento_BraintreeTwo
+"Please, enter valid Expiration Date","Prosím, zadajte platný dátum expirácie",module,Magento_BraintreeTwo
+"Card Verification Number","CVV/CVC kód",module,Magento_BraintreeTwo
 "Please, enter valid Card Verification Number","Please, enter valid Card Verification Number",module,Magento_BraintreeTwo
 ending,ending,module,Magento_BraintreeTwo
 expires,expires,module,Magento_BraintreeTwo
 "Credit Card Information","Credit Card Information",module,Magento_BraintreeTwo
 "What is this?","What is this?",module,Magento_BraintreeTwo
 "Save for later use.","Save for later use.",module,Magento_BraintreeTwo
-"Place Order","Place Order",module,Magento_BraintreeTwo
+"Place Order","Odoslať objendávku",module,Magento_BraintreeTwo
 "This payment is not available","This payment is not available",module,Magento_BraintreeTwo
 MM,MM,module,Magento_BraintreeTwo
 YY,YY,module,Magento_BraintreeTwo
@@ -2268,7 +2268,7 @@ No,No,module,Magento_CatalogPermissions
 "Permissions do not depend on store views.","Permissions do not depend on store views.",module,Magento_CatalogPermissions
 Website,Website,module,Magento_CatalogPermissions
 "Customer Group","Customer Group",module,Magento_CatalogPermissions
-Action,Action,module,Magento_CatalogPermissions
+Action,Akcia,module,Magento_CatalogPermissions
 "-- Please Select --","-- Please Select --",module,Magento_CatalogPermissions
 "All Websites","All Websites",module,Magento_CatalogPermissions
 "All Customer Groups","All Customer Groups",module,Magento_CatalogPermissions
@@ -2292,7 +2292,7 @@ Enable,Enable,module,Magento_CatalogPermissions
 Reset,Reset,module,Magento_CatalogRule
 "Save and Apply","Save and Apply",module,Magento_CatalogRule
 "Save and Continue Edit","Save and Continue Edit",module,Magento_CatalogRule
-Save,Save,module,Magento_CatalogRule
+Save,Uložiť,module,Magento_CatalogRule
 "Catalog Price Rule","Catalog Price Rule",module,Magento_CatalogRule
 "Add New Rule","Add New Rule",module,Magento_CatalogRule
 "Apply Rules","Apply Rules",module,Magento_CatalogRule
@@ -2352,7 +2352,7 @@ Status,Status,module,Magento_CatalogRule
 Active,Active,module,Magento_CatalogRule
 Inactive,Inactive,module,Magento_CatalogRule
 "Web Site","Web Site",module,Magento_CatalogRule
-Back,Back,module,Magento_CatalogRule
+Back,Späť,module,Magento_CatalogRule
 "Rule Information","Rule Information",module,Magento_CatalogRule
 Actions,Actions,module,Magento_CatalogRule
 Yes,Yes,module,Magento_CatalogRule
@@ -2364,8 +2364,8 @@ ID,ID,module,Magento_CatalogRuleStaging
 Rule,Rule,module,Magento_CatalogRuleStaging
 Priority,Priority,module,Magento_CatalogRuleStaging
 "Web Site","Web Site",module,Magento_CatalogRuleStaging
-Action,Action,module,Magento_CatalogRuleStaging
-Edit,Edit,module,Magento_CatalogRuleStaging
+Action,Akcia,module,Magento_CatalogRuleStaging
+Edit,Upraviť,module,Magento_CatalogRuleStaging
 "Scheduled Changes","Scheduled Changes",module,Magento_CatalogRuleStaging
 Name,Name,module,Magento_CatalogRuleStaging
 Description,Description,module,Magento_CatalogRuleStaging
@@ -2456,7 +2456,7 @@ Images,Images,module,Magento_CatalogStaging
 "Scheduled Changes","Scheduled Changes",module,Magento_CatalogStaging
 Name,Name,module,Magento_CatalogStaging
 Description,Description,module,Magento_CatalogStaging
-Action,Action,module,Magento_CatalogStaging
+Action,Akcia,module,Magento_CatalogStaging
 "Update Information","Update Information",module,Magento_CatalogStaging
 "Remove Category from Update","Remove Category from Update",module,Magento_CatalogStaging
 "Schedule Update","Schedule Update",module,Magento_CatalogStaging
@@ -2553,7 +2553,7 @@ State/Province,Kraj/okres,module,Magento_Checkout
 "My Cart (1 item)","Môj košík (1 položka)",module,Magento_Checkout
 "My Cart (%1 items)","Môj košík (%1 položiek)",module,Magento_Checkout
 "My Cart","Môj košík",module,Magento_Checkout
-"For delivery questions.","For delivery questions.",module,Magento_Checkout
+"For delivery questions.","Pre dotazy ohľadom doručenia.",module,Magento_Checkout
 "Customer is already registered","Zákazník je už zaregistrovaný",module,Magento_Checkout
 "Your session has expired","Platnosť vašej relácie uplynula",module,Magento_Checkout
 "A letter with further instructions will be sent to your email.","Na váš e-mail sa odošú informácie s ďalšími pokynmi.",module,Magento_Checkout
@@ -2609,9 +2609,9 @@ Error!,Chyba!,module,Magento_Checkout
 "DB exception","DB exception",module,Magento_Checkout
 Message,Správa,module,Magento_Checkout
 "<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Tlač potvrdenia</a>",module,Magento_Checkout
-"Apply Discount Code","Apply Discount Code",module,Magento_Checkout
-"Enter discount code","Enter discount code",module,Magento_Checkout
-"Apply Discount","Apply Discount",module,Magento_Checkout
+"Apply Discount Code","Uplatniť zľavový kód",module,Magento_Checkout
+"Enter discount code","Zadajte zľavový kód",module,Magento_Checkout
+"Apply Discount","Uplatniť zľavu",module,Magento_Checkout
 "Cancel Coupon","Cancel Coupon",module,Magento_Checkout
 "Shopping Cart Items","Shopping Cart Items",module,Magento_Checkout
 Item,Položka,module,Magento_Checkout
@@ -2634,7 +2634,7 @@ Edit,Upraviť,module,Magento_Checkout
 "Excl. Tax","Bez dane",module,Magento_Checkout
 Loading...,Načítávanie...,module,Magento_Checkout
 "Order #","Objednávka #",module,Magento_Checkout
-"Proceed to Checkout","Prejdite do pokladne",module,Magento_Checkout
+"Proceed to Checkout","Prejsť na pokladňu",module,Magento_Checkout
 "Product Name","Názov produktu",module,Magento_Checkout
 "Incl. Tax","Vrátane dane",module,Magento_Checkout
 "Your order number is: %1.","Číslo vašej objednávky je: %1.",module,Magento_Checkout
@@ -2671,19 +2671,19 @@ Remove,Odstrániť,module,Magento_Checkout
 "Payment Information","Informácie o platbe",module,Magento_Checkout
 "No Payment method available.","No Payment method available.",module,Magento_Checkout
 "You can track your order status by creating an account.","You can track your order status by creating an account.",module,Magento_Checkout
-"Place Order","Place Order",module,Magento_Checkout
+"Place Order","Odoslať objendávku",module,Magento_Checkout
 "Forgot an Item?","Forgot an Item?",module,Magento_Checkout
 "Edit Your Cart","Edit Your Cart",module,Magento_Checkout
-"Ship Here","Ship Here",module,Magento_Checkout
+"Ship Here","Doručiť sem",module,Magento_Checkout
 "Ship To:","Ship To:",module,Magento_Checkout
-edit,edit,module,Magento_Checkout
-"Shipping Address","Shipping Address",module,Magento_Checkout
-"New Address","New Address",module,Magento_Checkout
-"Shipping Methods","Shipping Methods",module,Magento_Checkout
-"Select Method","Select Method",module,Magento_Checkout
-"Method Title","Method Title",module,Magento_Checkout
-"Carrier Title","Carrier Title",module,Magento_Checkout
-Next,Next,module,Magento_Checkout
+edit,Upraviť,module,Magento_Checkout
+"Shipping Address","Dodacia adresa",module,Magento_Checkout
+"New Address","Nová adresa",module,Magento_Checkout
+"Shipping Methods","Spôsoby doručenia",module,Magento_Checkout
+"Select Method","Vybraný spôsob",module,Magento_Checkout
+"Method Title","Spôsob",module,Magento_Checkout
+"Carrier Title","Doručovateľ",module,Magento_Checkout
+Next,Pokračovať,module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time","Sorry, no quotes are available for this order at this time",module,Magento_Checkout
 "Order Summary","Order Summary",module,Magento_Checkout
 "View and Edit Cart","View and Edit Cart",module,Magento_Checkout
@@ -2692,9 +2692,9 @@ Next,Next,module,Magento_Checkout
 Example:,Example:,module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice.",module,Magento_Checkout
 "Are you sure you would like to remove this item from the shopping cart?","Are you sure you would like to remove this item from the shopping cart?",module,Magento_Checkout
-"Review & Payments","Review & Payments",module,Magento_Checkout
+"Review & Payments","Zhrnutie a platba",module,Magento_Checkout
 "Select a new payment method","Select a new payment method",module,Magento_Checkout
-Shipping,Shipping,module,Magento_Checkout
+Shipping,Doručenie,module,Magento_Checkout
 "Save Address","Save Address",module,Magento_Checkout
 "Please specify a shipping method.","Please specify a shipping method.",module,Magento_Checkout
 "Checkout Options","Checkout Options",module,Magento_Checkout
@@ -2775,7 +2775,7 @@ Close,Close,module,Magento_CheckoutAgreements
 "Preview Quote Lifetime (minutes)","Preview Quote Lifetime (minutes)",module,Magento_CheckoutStaging
 "Static Blocks","Statické bloky",module,Magento_Cms
 "Add New Block","Add New Block",module,Magento_Cms
-Back,Back,module,Magento_Cms
+Back,Späť,module,Magento_Cms
 "Delete Block","Delete Block",module,Magento_Cms
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Cms
 Reset,Reset,module,Magento_Cms
@@ -2794,9 +2794,9 @@ Enabled,Enabled,module,Magento_Cms
 "URL Key","URL Key",module,Magento_Cms
 Layout,Layout,module,Magento_Cms
 "Store View","Store View",module,Magento_Cms
-Created,Created,module,Magento_Cms
+Created,Vytvorené,module,Magento_Cms
 Modified,Modified,module,Magento_Cms
-Action,Action,module,Magento_Cms
+Action,Akcia,module,Magento_Cms
 Preview,Preview,module,Magento_Cms
 "Media Storage","Media Storage",module,Magento_Cms
 "Create Folder...","Create Folder...",module,Magento_Cms
@@ -2860,7 +2860,7 @@ LocalizedException,LocalizedException,module,Magento_Cms
 RuntimeException,RuntimeException,module,Magento_Cms
 Exception,Exception,module,Magento_Cms
 "Could not create a directory.","Could not create a directory.",module,Magento_Cms
-Edit,Edit,module,Magento_Cms
+Edit,Upraviť,module,Magento_Cms
 Delete,Delete,module,Magento_Cms
 "Delete %1","Delete %1",module,Magento_Cms
 "Are you sure you wan't to delete a %1 record?","Are you sure you wan't to delete a %1 record?",module,Magento_Cms
@@ -2935,7 +2935,7 @@ Error,Error,module,Magento_CmsStaging
 "Scheduled Changes","Scheduled Changes",module,Magento_CmsStaging
 Name,Name,module,Magento_CmsStaging
 Description,Description,module,Magento_CmsStaging
-Action,Action,module,Magento_CmsStaging
+Action,Akcia,module,Magento_CmsStaging
 "Update Information","Update Information",module,Magento_CmsStaging
 "Remove CMS block from Update","Remove CMS block from Update",module,Magento_CmsStaging
 "Update Name","Update Name",module,Magento_CmsStaging
@@ -3099,7 +3099,7 @@ Dashboard,Dashboard,module,Magento_Config
 "New attribute set name","New attribute set name",module,Magento_ConfigurableProduct
 "Add configurable attributes to the existing Attribute Set","Add configurable attributes to the existing Attribute Set",module,Magento_ConfigurableProduct
 "Choose existing Attribute Set","Choose existing Attribute Set",module,Magento_ConfigurableProduct
-Save,Save,module,Magento_ConfigurableProduct
+Save,Uložiť,module,Magento_ConfigurableProduct
 "Save & New","Save & New",module,Magento_ConfigurableProduct
 "Save & Duplicate","Save & Duplicate",module,Magento_ConfigurableProduct
 "Save & Close","Save & Close",module,Magento_ConfigurableProduct
@@ -3272,7 +3272,7 @@ Comparable,Comparable,module,Magento_ConfigurableProductStaging
 "Jot us a note and we’ll get back to you as quickly as possible.","Jot us a note and we’ll get back to you as quickly as possible.",module,Magento_Contact
 Name,Name,module,Magento_Contact
 Email,Email,module,Magento_Contact
-"Phone Number","Phone Number",module,Magento_Contact
+"Phone Number","Telefónne číslo",module,Magento_Contact
 "What’s on your mind?","What’s on your mind?",module,Magento_Contact
 Submit,Submit,module,Magento_Contact
 "Contact Form","Contact Form",module,Magento_Contact
@@ -3282,7 +3282,7 @@ Submit,Submit,module,Magento_Contact
 "Comment: %comment","Comment: %comment",module,Magento_Contact
 "Contacts Section","Contacts Section",module,Magento_Contact
 Contacts,Contacts,module,Magento_Contact
-"Contact Us","Contact Us",module,Magento_Contact
+"Contact Us","Kontaktujte nás",module,Magento_Contact
 "Enable Contact Us","Enable Contact Us",module,Magento_Contact
 "Email Options","Email Options",module,Magento_Contact
 "Send Emails To","Send Emails To",module,Magento_Contact
@@ -3357,7 +3357,7 @@ Yes,Yes,module,Magento_CustomAttributeManagement
 "Text Field","Text Field",module,Magento_CustomAttributeManagement
 "Text Area","Text Area",module,Magento_CustomAttributeManagement
 "Multiple Line","Multiple Line",module,Magento_CustomAttributeManagement
-Date,Date,module,Magento_CustomAttributeManagement
+Date,Dátum,module,Magento_CustomAttributeManagement
 Dropdown,Dropdown,module,Magento_CustomAttributeManagement
 "Multiple Select","Multiple Select",module,Magento_CustomAttributeManagement
 Yes/No,Yes/No,module,Magento_CustomAttributeManagement
@@ -3666,7 +3666,7 @@ Customer,Zákazník,module,Magento_Customer
 "Account Created on (%1):","Účet vytvorený (%1):",module,Magento_Customer
 "Account Created in:","Účet vytvorený v:",module,Magento_Customer
 "Customer Group:","Customer Group:",module,Magento_Customer
-"Default Billing Address","Default Billing Address",module,Magento_Customer
+"Default Billing Address","Východzia fakturačná adresa",module,Magento_Customer
 "Sales Statistics","Predajné statistiky",module,Magento_Customer
 "Web Site","Web Site",module,Magento_Customer
 Store,Store,module,Magento_Customer
@@ -3676,10 +3676,10 @@ Store,Store,module,Magento_Customer
 "All Store Views","All Store Views",module,Magento_Customer
 Change,Change,module,Magento_Customer
 "Manage Addresses","Manage Addresses",module,Magento_Customer
-"Default Shipping Address","Default Shipping Address",module,Magento_Customer
-"Contact Information","Contact Information",module,Magento_Customer
-"Change Password","Change Password",module,Magento_Customer
-Newsletters,Newsletters,module,Magento_Customer
+"Default Shipping Address","Východzia doručovacia adresa",module,Magento_Customer
+"Contact Information","Kontaktné informácie",module,Magento_Customer
+"Change Password","Zmeniť heslo",module,Magento_Customer
+Newsletters,"Odbery noviniek",module,Magento_Customer
 "You subscribe to ""General Subscription"".","You subscribe to ""General Subscription"".",module,Magento_Customer
 or,or,module,Magento_Customer
 "Default Addresses","Default Addresses",module,Magento_Customer
@@ -3727,8 +3727,8 @@ Save,Uložiť,module,Magento_Customer
 "If you have an account, sign in with your email address.","Ak máte účet, prihláste sa pomocou e-mailovej adresy.",module,Magento_Customer
 Password,Heslo,module,Magento_Customer
 "Forgot Your Password?","Zabudli ste heslo?",module,Magento_Customer
-"Subscription option","Subscription option",module,Magento_Customer
-"General Subscription","General Subscription",module,Magento_Customer
+"Subscription option","Nastavenie odberu",module,Magento_Customer
+"General Subscription","Všeobecný odber",module,Magento_Customer
 "Sign Up for Newsletter","Prihlásiť sa k odberu infrmačného bulletinu",module,Magento_Customer
 "Address Information","Informácie o adrese",module,Magento_Customer
 "Sign-in Information","Prihlasovacie údaje",module,Magento_Customer
@@ -3888,9 +3888,9 @@ Type,Type,module,Magento_Customer
 Addresses,Addresses,module,Magento_Customer
 "Are you sure you want to delete this item?","Are you sure you want to delete this item?",module,Magento_Customer
 "Account Dashboard","Account Dashboard",module,Magento_Customer
-"Edit Account Information","Edit Account Information",module,Magento_Customer
+"Edit Account Information","Upraviť informácie o účte",module,Magento_Customer
 "Password forgotten","Zabudnuté heslo",module,Magento_Customer
-"My Dashboard","My Dashboard",module,Magento_Customer
+"My Dashboard","Môj účet",module,Magento_Customer
 "You are signed out","Ste odhlásení",module,Magento_Customer
 "Store Credit","Kredit obchodu",module,Magento_CustomerBalance
 "Delete Orphan Balances","Delete Orphan Balances",module,Magento_CustomerBalance
@@ -4012,7 +4012,7 @@ Yes,Yes,module,Magento_CustomerCustomAttributes
 "Form Title","Form Title",module,Magento_CustomerCustomAttributes
 General,General,module,Magento_CustomerCustomAttributes
 "New Fieldset","New Fieldset",module,Magento_CustomerCustomAttributes
-Save,Save,module,Magento_CustomerCustomAttributes
+Save,Uložiť,module,Magento_CustomerCustomAttributes
 Remove,Remove,module,Magento_CustomerCustomAttributes
 Cancel,Cancel,module,Magento_CustomerCustomAttributes
 Attributes,Attributes,module,Magento_CustomerCustomAttributes
@@ -4058,19 +4058,19 @@ Customer,Customer,module,Magento_CustomerCustomAttributes
 "Choose Website:","Choose Website:",module,Magento_CustomerCustomAttributes
 "Please confirm site switching. All data that hasn't been saved will be lost.","Potvrďte, zmenu stránky. Všetky úpravý, ktoré ešte neboli uložené budú stratené.",module,Magento_CustomerCustomAttributes
 "* Required Fields","* Required Fields",module,Magento_CustomerCustomAttributes
-"Contact Information","Contact Information",module,Magento_CustomerCustomAttributes
-Company,Company,module,Magento_CustomerCustomAttributes
-"Phone Number","Phone Number",module,Magento_CustomerCustomAttributes
+"Contact Information","Kontaktné informácie",module,Magento_CustomerCustomAttributes
+Company,Spoločnosť,module,Magento_CustomerCustomAttributes
+"Phone Number","Telefónne číslo",module,Magento_CustomerCustomAttributes
 Fax,Fax,module,Magento_CustomerCustomAttributes
 Address,Address,module,Magento_CustomerCustomAttributes
-"Street Address","Street Address",module,Magento_CustomerCustomAttributes
+"Street Address","Ulica",module,Magento_CustomerCustomAttributes
 "Street Address %1","Street Address %1",module,Magento_CustomerCustomAttributes
 "VAT Number",DIČ,module,Magento_CustomerCustomAttributes
-City,City,module,Magento_CustomerCustomAttributes
-State/Province,State/Province,module,Magento_CustomerCustomAttributes
+City,Mesto,module,Magento_CustomerCustomAttributes
+State/Province,Štát/Provincia,module,Magento_CustomerCustomAttributes
 "Please select a region, state or province.","Please select a region, state or province.",module,Magento_CustomerCustomAttributes
-"Zip/Postal Code","Zip/Postal Code",module,Magento_CustomerCustomAttributes
-Country,Country,module,Magento_CustomerCustomAttributes
+"Zip/Postal Code","PSČ",module,Magento_CustomerCustomAttributes
+Country,Krajina,module,Magento_CustomerCustomAttributes
 "This is your default billing address.","This is your default billing address.",module,Magento_CustomerCustomAttributes
 "Use as my default billing address","Use as my default billing address",module,Magento_CustomerCustomAttributes
 "This is your default shipping address.","This is your default shipping address.",module,Magento_CustomerCustomAttributes
@@ -4078,23 +4078,23 @@ Country,Country,module,Magento_CustomerCustomAttributes
 "Save Address","Save Address",module,Magento_CustomerCustomAttributes
 "Go back","Go back",module,Magento_CustomerCustomAttributes
 "Account Information","Account Information",module,Magento_CustomerCustomAttributes
-"Change Email","Change Email",module,Magento_CustomerCustomAttributes
-"Change Password","Change Password",module,Magento_CustomerCustomAttributes
+"Change Email","Upraviť e-mail",module,Magento_CustomerCustomAttributes
+"Change Password","Zmeniť heslo",module,Magento_CustomerCustomAttributes
 "Change Email and Password","Change Email and Password",module,Magento_CustomerCustomAttributes
 Email,Email,module,Magento_CustomerCustomAttributes
-"Current Password","Current Password",module,Magento_CustomerCustomAttributes
-"New Password","New Password",module,Magento_CustomerCustomAttributes
+"Current Password","Súčasné heslo",module,Magento_CustomerCustomAttributes
+"New Password","Nové heslo",module,Magento_CustomerCustomAttributes
 "Password Strength","Password Strength",module,Magento_CustomerCustomAttributes
 "No Password","No Password",module,Magento_CustomerCustomAttributes
-"Confirm New Password","Confirm New Password",module,Magento_CustomerCustomAttributes
-"Personal Information","Personal Information",module,Magento_CustomerCustomAttributes
-"Sign Up for Newsletter","Sign Up for Newsletter",module,Magento_CustomerCustomAttributes
+"Confirm New Password","Potvrdenie nového hesla",module,Magento_CustomerCustomAttributes
+"Personal Information","Osobné údaje",module,Magento_CustomerCustomAttributes
+"Sign Up for Newsletter","Prihlásiť sa k odberu",module,Magento_CustomerCustomAttributes
 "Address Information","Address Information",module,Magento_CustomerCustomAttributes
-"Sign-in Information","Sign-in Information",module,Magento_CustomerCustomAttributes
-Password,Password,module,Magento_CustomerCustomAttributes
-"Confirm Password","Confirm Password",module,Magento_CustomerCustomAttributes
+"Sign-in Information","Prihlasovacie údaje",module,Magento_CustomerCustomAttributes
+Password,Heslo,module,Magento_CustomerCustomAttributes
+"Confirm Password","Potvrdenie hesla",module,Magento_CustomerCustomAttributes
 "Create an Account","Create an Account",module,Magento_CustomerCustomAttributes
-Back,Back,module,Magento_CustomerCustomAttributes
+Back,Späť,module,Magento_CustomerCustomAttributes
 "Customer Address","Customer Address",module,Magento_CustomerCustomAttributes
 "Default Values","Default Values",module,Magento_CustomerCustomAttributes
 "Please specify a finance information website.","Prosím uveďte webstránku finančných informácií.",module,Magento_CustomerFinance
@@ -4149,7 +4149,7 @@ Website,Website,module,Magento_CustomerSegment
 "Customer Segment Report","Customer Segment Report",module,Magento_CustomerSegment
 "Customer Segment Report '%1'","Customer Segment Report '%1'",module,Magento_CustomerSegment
 "Customer Segments Report","Customer Segments Report",module,Magento_CustomerSegment
-Back,Back,module,Magento_CustomerSegment
+Back,Späť,module,Magento_CustomerSegment
 From,From,module,Magento_CustomerSegment
 To,To,module,Magento_CustomerSegment
 "Please request the correct customer segment.","Please request the correct customer segment.",module,Magento_CustomerSegment
@@ -4163,7 +4163,7 @@ To,To,module,Magento_CustomerSegment
 Reports,Reports,module,Magento_CustomerSegment
 Customers,Customers,module,Magento_CustomerSegment
 "Viewing combined ""%1"" report from segments: %2.","Viewing combined ""%1"" report from segments: %2.",module,Magento_CustomerSegment
-Details,Details,module,Magento_CustomerSegment
+Details,Podrobnosti,module,Magento_CustomerSegment
 "The Customer Segment data has been refreshed.","The Customer Segment data has been refreshed.",module,Magento_CustomerSegment
 Union,Union,module,Magento_CustomerSegment
 Intersection,Intersection,module,Magento_CustomerSegment
@@ -4187,7 +4187,7 @@ Customer,Customer,module,Magento_CustomerSegment
 "Customer Address %1","Customer Address %1",module,Magento_CustomerSegment
 "Default Address","Default Address",module,Magento_CustomerSegment
 Billing,Billing,module,Magento_CustomerSegment
-Shipping,Shipping,module,Magento_CustomerSegment
+Shipping,Doručenie,module,Magento_CustomerSegment
 "Customer Address %1 Default %2 Address","Customer Address %1 Default %2 Address",module,Magento_CustomerSegment
 "Has State/Province","Has State/Province",module,Magento_CustomerSegment
 "If Customer Address %1 State/Province specified","If Customer Address %1 State/Province specified",module,Magento_CustomerSegment
@@ -4232,7 +4232,7 @@ found,found,module,Magento_CustomerSegment
 "Purchased Quantity","Purchased Quantity",module,Magento_CustomerSegment
 Sales,Sales,module,Magento_CustomerSegment
 "%1 %2 %3 %4 while %5 of these Conditions match:","%1 %2 %3 %4 while %5 of these Conditions match:",module,Magento_CustomerSegment
-Total,Total,module,Magento_CustomerSegment
+Total,Celkom,module,Magento_CustomerSegment
 Average,Average,module,Magento_CustomerSegment
 "If Customer Segment %1 %2","If Customer Segment %1 %2",module,Magento_CustomerSegment
 matches,matches,module,Magento_CustomerSegment
@@ -4240,7 +4240,7 @@ matches,matches,module,Magento_CustomerSegment
 "is one of","is one of",module,Magento_CustomerSegment
 "is not one of","is not one of",module,Magento_CustomerSegment
 "Shopping Cart Total","Shopping Cart Total",module,Magento_CustomerSegment
-Subtotal,Subtotal,module,Magento_CustomerSegment
+Subtotal,Medzisúčet,module,Magento_CustomerSegment
 "Grand Total","Grand Total",module,Magento_CustomerSegment
 Tax,Tax,module,Magento_CustomerSegment
 "Gift Card","Gift Card",module,Magento_CustomerSegment
@@ -4270,8 +4270,8 @@ Email,Email,module,Magento_CustomerSegment
 Group,Group,module,Magento_CustomerSegment
 Phone,Phone,module,Magento_CustomerSegment
 ZIP,ZIP,module,Magento_CustomerSegment
-Country,Country,module,Magento_CustomerSegment
-State/Province,State/Province,module,Magento_CustomerSegment
+Country,Krajina,module,Magento_CustomerSegment
+State/Province,Štát/provincia,module,Magento_CustomerSegment
 "Customer Since","Customer Since",module,Magento_CustomerSegment
 "View Combined Report","View Combined Report",module,Magento_CustomerSegment
 Set,Set,module,Magento_CustomerSegment
@@ -4312,7 +4312,7 @@ Decision,Decision,module,Magento_Cybersource
 "Authorize Only","Authorize Only",module,Magento_Cybersource
 "Risk Factor Q","Risk Factor Q",module,Magento_Cybersource
 "Risk Factor V","Risk Factor V",module,Magento_Cybersource
-"Place Order","Place Order",module,Magento_Cybersource
+"Place Order","Odoslať objendávku",module,Magento_Cybersource
 Cybersource,Cybersource,module,Magento_Cybersource
 Enabled,Enabled,module,Magento_Cybersource
 "Payment Action","Payment Action",module,Magento_Cybersource
@@ -4415,7 +4415,7 @@ Field,Field,module,Magento_Dhl
 "Gateway URL","Gateway URL",module,Magento_Dhl
 Title,Title,module,Magento_Dhl
 "Access ID","Access ID",module,Magento_Dhl
-Password,Password,module,Magento_Dhl
+Password,Heslo,module,Magento_Dhl
 "Account Number","Account Number",module,Magento_Dhl
 "Content Type","Content Type",module,Magento_Dhl
 "Calculate Handling Fee","Calculate Handling Fee",module,Magento_Dhl
@@ -4493,7 +4493,7 @@ Service,Service,module,Magento_Directory
 "All Files","All Files",module,Magento_Downloadable
 Unlimited,Unlimited,module,Magento_Downloadable
 "Something went wrong while getting the requested content.","Something went wrong while getting the requested content.",module,Magento_Downloadable
-"My Downloadable Products","My Downloadable Products",module,Magento_Downloadable
+"My Downloadable Products","Moje produkty na stiahnutie",module,Magento_Downloadable
 "We can't find the link you requested.","We can't find the link you requested.",module,Magento_Downloadable
 "Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Please sign in to download your product or purchase <a href=""%1"">%2</a>.",module,Magento_Downloadable
 "Please sign in to download your product.","Please sign in to download your product.",module,Magento_Downloadable
@@ -4536,7 +4536,7 @@ No,No,module,Magento_Downloadable
 URL,URL,module,Magento_Downloadable
 attachment,attachment,module,Magento_Downloadable
 inline,inline,module,Magento_Downloadable
-Pending,Pending,module,Magento_Downloadable
+Pending,Čakajúce,module,Magento_Downloadable
 Invoiced,Invoiced,module,Magento_Downloadable
 "To enable the option set the weight to no","To enable the option set the weight to no",module,Magento_Downloadable
 "Is this downloadable Product?","Is this downloadable Product?",module,Magento_Downloadable
@@ -4571,22 +4571,22 @@ Availability,Availability,module,Magento_Downloadable
 "Out of stock","Out of stock",module,Magento_Downloadable
 "Go to <a href=""%1"">My Downloadable Products</a>","Go to <a href=""%1"">My Downloadable Products</a>",module,Magento_Downloadable
 "Downloadable Products","Downloadable Products",module,Magento_Downloadable
-"Order #","Order #",module,Magento_Downloadable
-Date,Date,module,Magento_Downloadable
+"Order #","Objednávka č.",module,Magento_Downloadable
+Date,Dátum,module,Magento_Downloadable
 Status,Status,module,Magento_Downloadable
 "Remaining Downloads","Remaining Downloads",module,Magento_Downloadable
-"View Order","View Order",module,Magento_Downloadable
+"View Order","Zobraziť objednávku",module,Magento_Downloadable
 "Start Download","Start Download",module,Magento_Downloadable
-"You have not purchased any downloadable products yet.","You have not purchased any downloadable products yet.",module,Magento_Downloadable
-Back,Back,module,Magento_Downloadable
+"You have not purchased any downloadable products yet.","Nemáte zakúpené žiadne produkty na stiahnutie.",module,Magento_Downloadable
+Back,Späť,module,Magento_Downloadable
 download,download,module,Magento_Downloadable
 "Gift Message","Gift Message",module,Magento_Downloadable
 From:,From:,module,Magento_Downloadable
 To:,To:,module,Magento_Downloadable
 Message:,Message:,module,Magento_Downloadable
-"Product Name","Product Name",module,Magento_Downloadable
+"Product Name","Názov produktu",module,Magento_Downloadable
 Qty,Qty,module,Magento_Downloadable
-Subtotal,Subtotal,module,Magento_Downloadable
+Subtotal,Medzisúčet,module,Magento_Downloadable
 "Discount Amount","Discount Amount",module,Magento_Downloadable
 "Row Total","Row Total",module,Magento_Downloadable
 "Qty Invoiced","Qty Invoiced",module,Magento_Downloadable
@@ -4634,7 +4634,7 @@ Letters,Letters,module,Magento_Eav
 "Letters (a-z, A-Z) or Numbers (0-9)","Letters (a-z, A-Z) or Numbers (0-9)",module,Magento_Eav
 "Text Field","Text Field",module,Magento_Eav
 "Text Area","Text Area",module,Magento_Eav
-Date,Date,module,Magento_Eav
+Date,Dátum,module,Magento_Eav
 Yes/No,Yes/No,module,Magento_Eav
 "Multiple Select","Multiple Select",module,Magento_Eav
 Dropdown,Dropdown,module,Magento_Eav
@@ -4887,7 +4887,7 @@ BeagleScore,BeagleScore,module,Magento_Eway
 "Mobile Verification","Mobile Verification",module,Magento_Eway
 "Phone Verification","Phone Verification",module,Magento_Eway
 "Card number","Card number",module,Magento_Eway
-"Expiration Date","Expiration Date",module,Magento_Eway
+"Expiration Date","Dátum expirácie",module,Magento_Eway
 "Response Code","Response Code",module,Magento_Eway
 "Fraud Message","Fraud Message",module,Magento_Eway
 "Approve Message","Approve Message",module,Magento_Eway
@@ -4897,8 +4897,8 @@ BeagleScore,BeagleScore,module,Magento_Eway
 "Authorize Only","Authorize Only",module,Magento_Eway
 "Authorize and Capture","Authorize and Capture",module,Magento_Eway
 "Credit Card Type","Credit Card Type",module,Magento_Eway
-"Credit Card Number","Credit Card Number",module,Magento_Eway
-"Card Verification Number","Card Verification Number",module,Magento_Eway
+"Credit Card Number","Číslo kreditnej karty",module,Magento_Eway
+"Card Verification Number","CVV/CVC kód",module,Magento_Eway
 eWAY,eWAY,module,Magento_Eway
 Enabled,Enabled,module,Magento_Eway
 "Connection Type","Connection Type",module,Magento_Eway
@@ -4970,7 +4970,7 @@ Title,Title,module,Magento_Fedex
 "Please make sure to use only digits here. No dashes are allowed.","Please make sure to use only digits here. No dashes are allowed.",module,Magento_Fedex
 "Meter Number","Meter Number",module,Magento_Fedex
 Key,Key,module,Magento_Fedex
-Password,Password,module,Magento_Fedex
+Password,Heslo,module,Magento_Fedex
 "Sandbox Mode","Sandbox Mode",module,Magento_Fedex
 "Web-Services URL (Production)","Web-Services URL (Production)",module,Magento_Fedex
 "Web-Services URL (Sandbox)","Web-Services URL (Sandbox)",module,Magento_Fedex
@@ -5051,7 +5051,7 @@ Message,Message,module,Magento_GiftCard
 "Maximum length of the message is %1 characters.","Maximum length of the message is %1 characters.",module,Magento_GiftCard
 Quantity,Quantity,module,Magento_GiftCard
 Website,Website,module,Magento_GiftCard
-Action,Action,module,Magento_GiftCard
+Action,Akcia,module,Magento_GiftCard
 "Delete Amount","Delete Amount",module,Magento_GiftCard
 Delete,Delete,module,Magento_GiftCard
 From,From,module,Magento_GiftCard
@@ -5080,14 +5080,14 @@ Redeemable,Redeemable,module,Magento_GiftCard
 "Generate Gift Card Account when Order Item is","Generate Gift Card Account when Order Item is",module,Magento_GiftCard
 "Gift Card Accounts","Konto darčekovej karty",module,Magento_GiftCardAccount
 "Add Gift Card Account","Add Gift Card Account",module,Magento_GiftCardAccount
-Save,Save,module,Magento_GiftCardAccount
+Save,Uložiť,module,Magento_GiftCardAccount
 Delete,Delete,module,Magento_GiftCardAccount
 "Save & Send Email","Save & Send Email",module,Magento_GiftCardAccount
 "Edit Gift Card Account: %1","Edit Gift Card Account: %1",module,Magento_GiftCardAccount
 "New Gift Card Account","New Gift Card Account",module,Magento_GiftCardAccount
 ID,ID,module,Magento_GiftCardAccount
-Date,Date,module,Magento_GiftCardAccount
-Action,Action,module,Magento_GiftCardAccount
+Date,Dátum,module,Magento_GiftCardAccount
+Action,Akcia,module,Magento_GiftCardAccount
 "Balance Change","Balance Change",module,Magento_GiftCardAccount
 Balance,Balance,module,Magento_GiftCardAccount
 "More Information","More Information",module,Magento_GiftCardAccount
@@ -5099,7 +5099,7 @@ Yes,Yes,module,Magento_GiftCardAccount
 No,No,module,Magento_GiftCardAccount
 Redeemable,Redeemable,module,Magento_GiftCardAccount
 Website,Website,module,Magento_GiftCardAccount
-"Expiration Date","Expiration Date",module,Magento_GiftCardAccount
+"Expiration Date","Dátum expirácie",module,Magento_GiftCardAccount
 "Send Gift Card","Send Gift Card",module,Magento_GiftCardAccount
 "Recipient Email","Recipient Email",module,Magento_GiftCardAccount
 "Recipient Name","Recipient Name",module,Magento_GiftCardAccount
@@ -5148,7 +5148,7 @@ Redeemed,Redeemed,module,Magento_GiftCardAccount
 Expired,Expired,module,Magento_GiftCardAccount
 "Please enter a valid customer ID.","Please enter a valid customer ID.",module,Magento_GiftCardAccount
 "Gift Card Redeemed: %1. For customer #%2.","Gift Card Redeemed: %1. For customer #%2.",module,Magento_GiftCardAccount
-Created,Created,module,Magento_GiftCardAccount
+Created,Vytvorené,module,Magento_GiftCardAccount
 Updated,Updated,module,Magento_GiftCardAccount
 Sent,Sent,module,Magento_GiftCardAccount
 "Order #%1.","Order #%1.",module,Magento_GiftCardAccount
@@ -5263,7 +5263,7 @@ From:,From:,module,Magento_GiftMessage
 Message:,Message:,module,Magento_GiftMessage
 Update,Update,module,Magento_GiftMessage
 "Gift options","Gift options",module,Magento_GiftMessage
-Edit,Edit,module,Magento_GiftMessage
+Edit,Upraviť,module,Magento_GiftMessage
 Delete,Delete,module,Magento_GiftMessage
 "Allow Gift Messages on Order Level","Allow Gift Messages on Order Level",module,Magento_GiftMessage
 "Allow Gift Messages for Order Items","Allow Gift Messages for Order Items",module,Magento_GiftMessage
@@ -5275,7 +5275,7 @@ Product,Product,module,Magento_GiftRegistry
 SKU,SKU,module,Magento_GiftRegistry
 Price,Price,module,Magento_GiftRegistry
 Quantity,Quantity,module,Magento_GiftRegistry
-Total,Total,module,Magento_GiftRegistry
+Total,Celkom,module,Magento_GiftRegistry
 "Add to Gift Registry","Add to Gift Registry",module,Magento_GiftRegistry
 "Are you sure you want to add these products?","Are you sure you want to add these products?",module,Magento_GiftRegistry
 "Update Items and Quantities","Update Items and Quantities",module,Magento_GiftRegistry
@@ -5283,7 +5283,7 @@ ID,ID,module,Magento_GiftRegistry
 Requested,Requested,module,Magento_GiftRegistry
 Fulfilled,Fulfilled,module,Magento_GiftRegistry
 Note,Note,module,Magento_GiftRegistry
-Action,Action,module,Magento_GiftRegistry
+Action,Akcia,module,Magento_GiftRegistry
 "Update Quantity","Update Quantity",module,Magento_GiftRegistry
 "Remove Item","Remove Item",module,Magento_GiftRegistry
 "Sharing Information","Sharing Information",module,Magento_GiftRegistry
@@ -5303,7 +5303,7 @@ Yes,Yes,module,Magento_GiftRegistry
 Website,Website,module,Magento_GiftRegistry
 "Gift Registry Types","Gift Registry Types",module,Magento_GiftRegistry
 "Add Gift Registry Type","Add Gift Registry Type",module,Magento_GiftRegistry
-Save,Save,module,Magento_GiftRegistry
+Save,Uložiť,module,Magento_GiftRegistry
 "If you delete this gift registry type, you also delete customer registries that use this type. Do you want to continue?","If you delete this gift registry type, you also delete customer registries that use this type. Do you want to continue?",module,Magento_GiftRegistry
 Delete,Delete,module,Magento_GiftRegistry
 "Save and Continue Edit","Save and Continue Edit",module,Magento_GiftRegistry
@@ -5328,10 +5328,10 @@ Attributes,Attributes,module,Magento_GiftRegistry
 [WEBSITE],[WEBSITE],module,Magento_GiftRegistry
 "[STORE VIEW]","[STORE VIEW]",module,Magento_GiftRegistry
 None,None,module,Magento_GiftRegistry
-"New Address","New Address",module,Magento_GiftRegistry
+"New Address","Nová adresa",module,Magento_GiftRegistry
 "Edit Gift Registry","Edit Gift Registry",module,Magento_GiftRegistry
 "Create Gift Registry","Create Gift Registry",module,Magento_GiftRegistry
-State/Province,State/Province,module,Magento_GiftRegistry
+State/Province,Štát/provincia,module,Magento_GiftRegistry
 "Please select a region, state or province","Please select a region, state or province",module,Magento_GiftRegistry
 "Please Select","Please Select",module,Magento_GiftRegistry
 "View Gift Registry %1","View Gift Registry %1",module,Magento_GiftRegistry
@@ -5437,7 +5437,7 @@ New,New,module,Magento_GiftRegistry
 Type,Type,module,Magento_GiftRegistry
 Owner,Owner,module,Magento_GiftRegistry
 "Created on","Created on",module,Magento_GiftRegistry
-"Shipping Address","Shipping Address",module,Magento_GiftRegistry
+"Shipping Address","Dodacia adresa",module,Magento_GiftRegistry
 "Shopping Cart Items","Položky v košíku",module,Magento_GiftRegistry
 "New Attribute","New Attribute",module,Magento_GiftRegistry
 "Input Type","Input Type",module,Magento_GiftRegistry
@@ -5449,15 +5449,15 @@ Owner,Owner,module,Magento_GiftRegistry
 "Date Format","Date Format",module,Magento_GiftRegistry
 "Is Default","Is Default",module,Magento_GiftRegistry
 "Select a shipping address from your address book or enter a new address.","Select a shipping address from your address book or enter a new address.",module,Magento_GiftRegistry
-Company,Company,module,Magento_GiftRegistry
+Company,Spoločnosť,module,Magento_GiftRegistry
 Address,Address,module,Magento_GiftRegistry
-"Street Address","Street Address",module,Magento_GiftRegistry
+"Street Address","Ulica",module,Magento_GiftRegistry
 "Street Address %1","Street Address %1",module,Magento_GiftRegistry
-City,City,module,Magento_GiftRegistry
+City,Mesto,module,Magento_GiftRegistry
 "Please select a region, state or province.","Please select a region, state or province.",module,Magento_GiftRegistry
-"Zip/Postal Code","Zip/Postal Code",module,Magento_GiftRegistry
-Country,Country,module,Magento_GiftRegistry
-"Phone Number","Phone Number",module,Magento_GiftRegistry
+"Zip/Postal Code","PSČ",module,Magento_GiftRegistry
+Country,Krajina,module,Magento_GiftRegistry
+"Phone Number","Telefónne číslo",module,Magento_GiftRegistry
 Fax,Fax,module,Magento_GiftRegistry
 "Add All To Gift Registry","Add All To Gift Registry",module,Magento_GiftRegistry
 "Ship to registrant's address","Ship to registrant's address",module,Magento_GiftRegistry
@@ -5466,16 +5466,16 @@ Fax,Fax,module,Magento_GiftRegistry
 Qty,Qty,module,Magento_GiftRegistry
 "Qty Fulfilled","Qty Fulfilled",module,Magento_GiftRegistry
 "Update Gift Registry","Update Gift Registry",module,Magento_GiftRegistry
-Back,Back,module,Magento_GiftRegistry
+Back,Späť,module,Magento_GiftRegistry
 "This gift registry has no items.","This gift registry has no items.",module,Magento_GiftRegistry
 "Created On","Created On",module,Magento_GiftRegistry
 "Manage Items","Manage Items",module,Magento_GiftRegistry
 Share,Share,module,Magento_GiftRegistry
-Edit,Edit,module,Magento_GiftRegistry
+Edit,Upraviť,module,Magento_GiftRegistry
 "You haven't created a gift registry yet.","You haven't created a gift registry yet.",module,Magento_GiftRegistry
 "Add New","Add New",module,Magento_GiftRegistry
 Remove,Remove,module,Magento_GiftRegistry
-"First Name","First Name",module,Magento_GiftRegistry
+"First Name","Meno",module,Magento_GiftRegistry
 Name,Name,module,Magento_GiftRegistry
 Email,Email,module,Magento_GiftRegistry
 "* Required Fields","* Required Fields",module,Magento_GiftRegistry
@@ -5485,8 +5485,8 @@ Invitee,Invitee,module,Magento_GiftRegistry
 "Add Invitee","Add Invitee",module,Magento_GiftRegistry
 "Gift Registry Type","Gift Registry Type",module,Magento_GiftRegistry
 "Please select a gift registry type.","Please select a gift registry type.",module,Magento_GiftRegistry
-Next,Next,module,Magento_GiftRegistry
-"Last Name","Last Name",module,Magento_GiftRegistry
+Next,Pokračovať,module,Magento_GiftRegistry
+"Last Name","Priezvisko",module,Magento_GiftRegistry
 "Registrant Information","Registrant Information",module,Magento_GiftRegistry
 "Maximum %1 registrants.","Maximum %1 registrants.",module,Magento_GiftRegistry
 "Add Registrant","Add Registrant",module,Magento_GiftRegistry
@@ -5494,7 +5494,7 @@ Type:,Type:,module,Magento_GiftRegistry
 "Privacy Settings","Privacy Settings",module,Magento_GiftRegistry
 Status,Status,module,Magento_GiftRegistry
 "Gift Registry Items Updated","Gift Registry Items Updated",module,Magento_GiftRegistry
-"Product Name","Product Name",module,Magento_GiftRegistry
+"Product Name","Názov produktu",module,Magento_GiftRegistry
 "Requested Quantity","Requested Quantity",module,Magento_GiftRegistry
 "Fulfilled Quantity","Fulfilled Quantity",module,Magento_GiftRegistry
 "Total Fulfilled Quantity","Total Fulfilled Quantity",module,Magento_GiftRegistry
@@ -5539,7 +5539,7 @@ View,View,module,Magento_GiftRegistry
 "The following items have been purchased from your gift registry ""%registry_name"":","The following items have been purchased from your gift registry ""%registry_name"":",module,Magento_GiftRegistry
 "You can sign in to your account to view more details about this gift registry.","You can sign in to your account to view more details about this gift registry.",module,Magento_GiftRegistry
 "Ship to Recipient Address","Ship to Recipient Address",module,Magento_GiftRegistry
-"Ship Here","Ship Here",module,Magento_GiftRegistry
+"Ship Here","Doručiť sem",module,Magento_GiftRegistry
 "Recipient Address","Recipient Address",module,Magento_GiftRegistry
 "Use gift registry shipping address","Use gift registry shipping address",module,Magento_GiftRegistry
 "The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.","The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.",module,Magento_GiftRegistry
@@ -5562,7 +5562,7 @@ Role,Role,module,Magento_GiftRegistry
 "Maximum Sent Emails Threshold","Maximum Sent Emails Threshold",module,Magento_GiftRegistry
 "Gift Registry Update","Gift Registry Update",module,Magento_GiftRegistry
 Select,Select,module,Magento_GiftRegistry
-Date,Date,module,Magento_GiftRegistry
+Date,Dátum,module,Magento_GiftRegistry
 "Event Region Id","Event Region Id",module,Magento_GiftRegistry
 "Event Region Text","Event Region Text",module,Magento_GiftRegistry
 "Event Location","Event Location",module,Magento_GiftRegistry
@@ -5644,8 +5644,8 @@ Delete,Delete,module,Magento_GiftWrapping
 "Change Status","Change Status",module,Magento_GiftWrapping
 ID,ID,module,Magento_GiftWrapping
 "Gift Wrap Design","Gift Wrap Design",module,Magento_GiftWrapping
-Action,Action,module,Magento_GiftWrapping
-Edit,Edit,module,Magento_GiftWrapping
+Action,Akcia,module,Magento_GiftWrapping
+Edit,Upraviť,module,Magento_GiftWrapping
 Dynamic,Dynamické,module,Magento_GoogleAdwords
 Constant,Constant,module,Magento_GoogleAdwords
 "Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.","Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.",module,Magento_GoogleAdwords
@@ -5702,13 +5702,13 @@ Name,Name,module,Magento_GroupedProduct
 "Attribute Set","Attribute Set",module,Magento_GroupedProduct
 Status,Status,module,Magento_GroupedProduct
 SKU,SKU,module,Magento_GroupedProduct
-Price,Price,module,Magento_GroupedProduct
+Price,Cena,module,Magento_GroupedProduct
 "Default Quantity","Default Quantity",module,Magento_GroupedProduct
 Actions,Actions,module,Magento_GroupedProduct
 "Associated Products","Associated Products",module,Magento_GroupedProduct
 Availability:,Availability:,module,Magento_GroupedProduct
 "Out of stock","Out of stock",module,Magento_GroupedProduct
-"Product Name","Product Name",module,Magento_GroupedProduct
+"Product Name","Názov produktu",module,Magento_GroupedProduct
 Qty,Qty,module,Magento_GroupedProduct
 "No options of this product are available.","No options of this product are available.",module,Magento_GroupedProduct
 "There are no grouped products.","There are no grouped products.",module,Magento_GroupedProduct
@@ -5731,7 +5731,7 @@ Name,Name,module,Magento_GroupedProductStaging
 Type,Type,module,Magento_GroupedProductStaging
 SKU,SKU,module,Magento_GroupedProductStaging
 Quantity,Quantity,module,Magento_GroupedProductStaging
-Price,Price,module,Magento_GroupedProductStaging
+Price,Cena,module,Magento_GroupedProductStaging
 "Attribute Set","Attribute Set",module,Magento_GroupedProductStaging
 AttributeSetText,AttributeSetText,module,Magento_GroupedProductStaging
 StatusText,StatusText,module,Magento_GroupedProductStaging
@@ -5880,7 +5880,7 @@ Updated,Updated,module,Magento_Indexer
 Integrations,Prepojenia,module,Magento_Integration
 "Add New Integration","Add New Integration",module,Magento_Integration
 API,API,module,Magento_Integration
-Save,Save,module,Magento_Integration
+Save,Uložiť,module,Magento_Integration
 "Save & Activate","Save & Activate",module,Magento_Integration
 "New Integration","New Integration",module,Magento_Integration
 "Edit Integration '%1'","Edit Integration '%1'",module,Magento_Integration
@@ -5904,7 +5904,7 @@ Email,Email,module,Magento_Integration
 "Uninstall the extension to remove this integration","Uninstall the extension to remove this integration",module,Magento_Integration
 Remove,Remove,module,Magento_Integration
 View,View,module,Magento_Integration
-Edit,Edit,module,Magento_Integration
+Edit,Upraviť,module,Magento_Integration
 Activate,Activate,module,Magento_Integration
 Reauthorize,Reauthorize,module,Magento_Integration
 "Integration not secure","Integration not secure",module,Magento_Integration
@@ -6006,9 +6006,9 @@ Message,Message,module,Magento_Invitation
 "Send From","Send From",module,Magento_Invitation
 "Invitee Group","Invitee Group",module,Magento_Invitation
 Reset,Reset,module,Magento_Invitation
-Save,Save,module,Magento_Invitation
+Save,Uložiť,module,Magento_Invitation
 "View Invitation for %1 (ID: %2)","View Invitation for %1 (ID: %2)",module,Magento_Invitation
-Back,Back,module,Magento_Invitation
+Back,Späť,module,Magento_Invitation
 "Discard Invitation","Discard Invitation",module,Magento_Invitation
 "Are you sure you want to discard this invitation?","Are you sure you want to discard this invitation?",module,Magento_Invitation
 "Save Invitation","Save Invitation",module,Magento_Invitation
@@ -6090,8 +6090,8 @@ Link,Link,module,Magento_Invitation
 "Invitee Information","Invitee Information",module,Magento_Invitation
 "Customer ID","Customer ID",module,Magento_Invitation
 "Customer Group","Customer Group",module,Magento_Invitation
-"First Name","First Name",module,Magento_Invitation
-"Last Name","Last Name",module,Magento_Invitation
+"First Name","Meno",module,Magento_Invitation
+"Last Name","Priezvisko",module,Magento_Invitation
 "Sign Up At","Sign Up At",module,Magento_Invitation
 "Inviter Information","Inviter Information",module,Magento_Invitation
 Admin,Admin,module,Magento_Invitation
@@ -6145,7 +6145,7 @@ No,Nie,module,Magento_LayeredNavigation
 "Can be used only with catalog input type Dropdown, Multiple Select and Price","Can be used only with catalog input type Dropdown, Multiple Select and Price",module,Magento_LayeredNavigation
 "Can be used only with catalog input type Dropdown, Multiple Select and Price.","Can be used only with catalog input type Dropdown, Multiple Select and Price.",module,Magento_LayeredNavigation
 "Use in Search Results Layered Navigation","Use in Search Results Layered Navigation",module,Magento_LayeredNavigation
-Position,Position,module,Magento_LayeredNavigation
+Position,Pozícia,module,Magento_LayeredNavigation
 "Position in Layered Navigation","Position in Layered Navigation",module,Magento_LayeredNavigation
 "Position of attribute in layered navigation block.","Position of attribute in layered navigation block.",module,Magento_LayeredNavigation
 item,item,module,Magento_LayeredNavigation
@@ -6168,7 +6168,7 @@ Remove,Remove,module,Magento_LayeredNavigation
 "Interval Division Limit","Interval Division Limit",module,Magento_LayeredNavigation
 "Please specify the number of products, that will not be divided into subintervals.","Please specify the number of products, that will not be divided into subintervals.",module,Magento_LayeredNavigation
 "Admin Actions Log Archive","Archív denníka činností Admina",module,Magento_Logging
-Back,Back,module,Magento_Logging
+Back,Späť,module,Magento_Logging
 "Log Entry #%1","Log Entry #%1",module,Magento_Logging
 "Log Entry Details","Log Entry Details",module,Magento_Logging
 "Source Data","Source Data",module,Magento_Logging
@@ -6216,12 +6216,12 @@ Archive,Archive,module,Magento_Logging
 "Enabled Actions","Enabled Actions",module,Magento_Logging
 1,1,module,Magento_Logging
 View,View,module,Magento_Logging
-Save,Save,module,Magento_Logging
+Save,Uložiť,module,Magento_Logging
 Delete,Delete,module,Magento_Logging
 "Mass Delete","Mass Delete",module,Magento_Logging
 Export,Export,module,Magento_Logging
 Import,Import,module,Magento_Logging
-Edit,Edit,module,Magento_Logging
+Edit,Upraviť,module,Magento_Logging
 "Mass Update","Mass Update",module,Magento_Logging
 Move,Move,module,Magento_Logging
 New,New,module,Magento_Logging
@@ -6288,12 +6288,12 @@ Widget,Widget,module,Magento_Logging
 "Cache Management","Cache Management",module,Magento_Logging
 "PayPal Settlement Reports","PayPal Settlement Reports",module,Magento_Logging
 "Archive File","Archive File",module,Magento_Logging
-Date,Date,module,Magento_Logging
+Date,Dátum,module,Magento_Logging
 CSV,CSV,module,Magento_Logging
 "Excel XML","Excel XML",module,Magento_Logging
 Time,Time,module,Magento_Logging
 "Action Group","Action Group",module,Magento_Logging
-Action,Action,module,Magento_Logging
+Action,Akcia,module,Magento_Logging
 "IP Address","IP Address",module,Magento_Logging
 Username,Username,module,Magento_Logging
 Result,Result,module,Magento_Logging
@@ -6350,7 +6350,7 @@ Database,Database,module,Magento_MediaStorage
 "What's this?","What's this?",module,Magento_Msrp
 "Order total will be displayed before you submit the order","Order total will be displayed before you submit the order",module,Magento_Msrp
 "You will see the order total before you submit the order.","You will see the order total before you submit the order.",module,Magento_Msrp
-Price,Price,module,Magento_Msrp
+Price,Cena,module,Magento_Msrp
 "Actual Price","Actual Price",module,Magento_Msrp
 "Add to Cart","Add to Cart",module,Magento_Msrp
 "Minimum Advertised Price","Minimum Advertised Price",module,Magento_Msrp
@@ -6369,22 +6369,22 @@ Warehouse,Warehouse,module,Magento_MultipleLocationInventory
 "Please select a user","Please select a user",module,Magento_MultipleLocationInventory
 "Requested warehouse doesn't exist","Requested warehouse doesn't exist",module,Magento_MultipleLocationInventory
 "Test error message","Test error message",module,Magento_MultipleLocationInventory
-Edit,Edit,module,Magento_MultipleLocationInventory
+Edit,Upraviť,module,Magento_MultipleLocationInventory
 "Multiple Location Inventory","Multiple Location Inventory",module,Magento_MultipleLocationInventory
 "Change status of warehouse","Change status of warehouse",module,Magento_MultipleLocationInventory
 "Edit warehouse","Edit warehouse",module,Magento_MultipleLocationInventory
 "Manage Warehouses","Manage Warehouses",module,Magento_MultipleLocationInventory
 "Warehouse Information","Warehouse Information",module,Magento_MultipleLocationInventory
 "Use default address","Use default address",module,Magento_MultipleLocationInventory
-"Street Address","Street Address",module,Magento_MultipleLocationInventory
+"Street Address","Ulica",module,Magento_MultipleLocationInventory
 "Add New Warehouse","Add New Warehouse",module,Magento_MultipleLocationInventory
 ID,ID,module,Magento_MultipleLocationInventory
 Name,Name,module,Magento_MultipleLocationInventory
 "Contact Name","Contact Name",module,Magento_MultipleLocationInventory
 Email,Email,module,Magento_MultipleLocationInventory
-Country,Country,module,Magento_MultipleLocationInventory
-State/Province,State/Province,module,Magento_MultipleLocationInventory
-City,City,module,Magento_MultipleLocationInventory
+Country,Krajina,module,Magento_MultipleLocationInventory
+State/Province,Štát/provincia,module,Magento_MultipleLocationInventory
+City,Mesto,module,Magento_MultipleLocationInventory
 Street,Street,module,Magento_MultipleLocationInventory
 ZIP,ZIP,module,Magento_MultipleLocationInventory
 Status,Status,module,Magento_MultipleLocationInventory
@@ -6447,7 +6447,7 @@ Customers,Customers,module,Magento_MultipleWishlist
 InvalidArgumentException,InvalidArgumentException,module,Magento_MultipleWishlist
 Refresh,Refresh,module,Magento_MultipleWishlist
 "All Wish Lists","All Wish Lists",module,Magento_MultipleWishlist
-Item,Item,module,Magento_MultipleWishlist
+Item,Položka,module,Magento_MultipleWishlist
 Qty,Qty,module,Magento_MultipleWishlist
 Price,Price,module,Magento_MultipleWishlist
 Remove,Remove,module,Magento_MultipleWishlist
@@ -6461,15 +6461,15 @@ Updated,Updated,module,Magento_MultipleWishlist
 "Wish List Items","Wish List Items",module,Magento_MultipleWishlist
 "You must select items to add to the cart.","You must select items to add to the cart.",module,Magento_MultipleWishlist
 "Add to Cart","Add to Cart",module,Magento_MultipleWishlist
-Back,Back,module,Magento_MultipleWishlist
+Back,Späť,module,Magento_MultipleWishlist
 "Add to:","Add to:",module,Magento_MultipleWishlist
 "Create New Wish List","Create New Wish List",module,Magento_MultipleWishlist
 "Move to Wish List","Move to Wish List",module,Magento_MultipleWishlist
 "Copy to Wish List","Copy to Wish List",module,Magento_MultipleWishlist
 "Search Options","Search Options",module,Magento_MultipleWishlist
 "Required Fields","Required Fields",module,Magento_MultipleWishlist
-"First Name","First Name",module,Magento_MultipleWishlist
-"Last Name","Last Name",module,Magento_MultipleWishlist
+"First Name","Meno",module,Magento_MultipleWishlist
+"Last Name","Priezvisko",module,Magento_MultipleWishlist
 Search,Search,module,Magento_MultipleWishlist
 "Search Results","Search Results",module,Magento_MultipleWishlist
 "Wish List Name","Wish List Name",module,Magento_MultipleWishlist
@@ -6478,7 +6478,7 @@ View,View,module,Magento_MultipleWishlist
 "Your search returned no results.","Your search returned no results.",module,Magento_MultipleWishlist
 "Wish List","Wish List",module,Magento_MultipleWishlist
 "Edit Wish List","Edit Wish List",module,Magento_MultipleWishlist
-Edit,Edit,module,Magento_MultipleWishlist
+Edit,Upraviť,module,Magento_MultipleWishlist
 "Public Wish List","Public Wish List",module,Magento_MultipleWishlist
 "Private Wish List","Private Wish List",module,Magento_MultipleWishlist
 "Select all","Select all",module,Magento_MultipleWishlist
@@ -6487,7 +6487,7 @@ Edit,Edit,module,Magento_MultipleWishlist
 "Search By","Search By",module,Magento_MultipleWishlist
 "Please enter at least two letters.","Please enter at least two letters.",module,Magento_MultipleWishlist
 Close,Close,module,Magento_MultipleWishlist
-Save,Save,module,Magento_MultipleWishlist
+Save,Uložiť,module,Magento_MultipleWishlist
 Cancel,Cancel,module,Magento_MultipleWishlist
 "We can't create the Wish List right now.","We can't create the Wish List right now.",module,Magento_MultipleWishlist
 "Please select items to move.","Please select items to move.",module,Magento_MultipleWishlist
@@ -6524,10 +6524,10 @@ Comment,Comment,module,Magento_MultipleWishlist
 "Ship to Multiple Addresses","Ship to Multiple Addresses",module,Magento_Multishipping
 "Billing Information - %1","Billing Information - %1",module,Magento_Multishipping
 "Review Order - %1","Review Order - %1",module,Magento_Multishipping
-Total,Total,module,Magento_Multishipping
+Total,Celkom,module,Magento_Multishipping
 "Total for this address","Total for this address",module,Magento_Multishipping
-"Shipping Methods","Shipping Methods",module,Magento_Multishipping
-"Edit Address","Edit Address",module,Magento_Multishipping
+"Shipping Methods","Spôsoby doručenia",module,Magento_Multishipping
+"Edit Address","Upraviť adresu",module,Magento_Multishipping
 "Edit Billing Address","Edit Billing Address",module,Magento_Multishipping
 "Edit Shipping Address","Edit Shipping Address",module,Magento_Multishipping
 "Create Billing Address","Create Billing Address",module,Magento_Multishipping
@@ -6549,12 +6549,12 @@ Total,Total,module,Magento_Multishipping
 "Select Addresses","Select Addresses",module,Magento_Multishipping
 "Shipping Information","Shipping Information",module,Magento_Multishipping
 "Billing Information","Billing Information",module,Magento_Multishipping
-"Place Order","Place Order",module,Magento_Multishipping
+"Place Order","Odoslať objednávku",module,Magento_Multishipping
 "Order Success","Order Success",module,Magento_Multishipping
 "Default Billing","Default Billing",module,Magento_Multishipping
 "Default Shipping","Default Shipping",module,Magento_Multishipping
 "Select Address","Select Address",module,Magento_Multishipping
-"Add New Address","Add New Address",module,Magento_Multishipping
+"Add New Address","Pridať novú adresu",module,Magento_Multishipping
 "Back to Billing Information","Back to Billing Information",module,Magento_Multishipping
 "Please select a shipping address for applicable items.","Please select a shipping address for applicable items.",module,Magento_Multishipping
 Product,Product,module,Magento_Multishipping
@@ -6568,7 +6568,7 @@ Actions,Actions,module,Magento_Multishipping
 "Update Qty &amp; Addresses","Update Qty &amp; Addresses",module,Magento_Multishipping
 "Enter a New Address","Enter a New Address",module,Magento_Multishipping
 "Back to Shopping Cart","Back to Shopping Cart",module,Magento_Multishipping
-"Billing Address","Billing Address",module,Magento_Multishipping
+"Billing Address","Fakturačná adresa",module,Magento_Multishipping
 Change,Change,module,Magento_Multishipping
 "Payment Method","Payment Method",module,Magento_Multishipping
 "Go to Review Your Order","Go to Review Your Order",module,Magento_Multishipping
@@ -6584,10 +6584,10 @@ Change,Change,module,Magento_Multishipping
 "Incl. Tax","Incl. Tax",module,Magento_Multishipping
 "Excl. Tax","Excl. Tax",module,Magento_Multishipping
 "Order Review","Order Review",module,Magento_Multishipping
-Item,Item,module,Magento_Multishipping
-Edit,Edit,module,Magento_Multishipping
-Price,Price,module,Magento_Multishipping
-Subtotal,Subtotal,module,Magento_Multishipping
+Item,Položka,module,Magento_Multishipping
+Edit,Upraviť,module,Magento_Multishipping
+Price,Cena,module,Magento_Multishipping
+Subtotal,Medzisúčet,module,Magento_Multishipping
 Items,Items,module,Magento_Multishipping
 "Grand Total:","Grand Total:",module,Magento_Multishipping
 "Submitting order information...","Submitting order information...",module,Magento_Multishipping
@@ -6598,7 +6598,7 @@ Items,Items,module,Magento_Multishipping
 "Thanks for your order. We'll email you order details and tracking information.","Thanks for your order. We'll email you order details and tracking information.",module,Magento_Multishipping
 "Your order numbers are:","Your order numbers are:",module,Magento_Multishipping
 "Your order number is:","Your order number is:",module,Magento_Multishipping
-"Continue Shopping","Continue Shopping",module,Magento_Multishipping
+"Continue Shopping","Pokračovať v nákupe",module,Magento_Multishipping
 "We can't complete your order because you don't have a payment method set up.","We can't complete your order because you don't have a payment method set up.",module,Magento_Multishipping
 "Please choose a payment method.","Please choose a payment method.",module,Magento_Multishipping
 "Multishipping Settings Section","Multishipping Settings Section",module,Magento_Multishipping
@@ -6641,7 +6641,7 @@ Cron,Cron,module,Magento_NewRelicReporting
 "Enable Cron","Enable Cron",module,Magento_NewRelicReporting
 "Delete Selected Problems","Odstrániť vybrané problémy",module,Magento_Newsletter
 "Unsubscribe Selected","Unsubscribe Selected",module,Magento_Newsletter
-Back,Back,module,Magento_Newsletter
+Back,Späť,module,Magento_Newsletter
 Reset,Reset,module,Magento_Newsletter
 "Preview Template","Preview Template",module,Magento_Newsletter
 "Save Newsletter","Save Newsletter",module,Magento_Newsletter
@@ -6683,7 +6683,7 @@ Added,Added,module,Magento_Newsletter
 Updated,Updated,module,Magento_Newsletter
 Sender,Sender,module,Magento_Newsletter
 "Template Type","Template Type",module,Magento_Newsletter
-Action,Action,module,Magento_Newsletter
+Action,Akcia,module,Magento_Newsletter
 "Queue Newsletter","Queue Newsletter",module,Magento_Newsletter
 "We unsubscribed the people you identified.","We unsubscribed the people you identified.",module,Magento_Newsletter
 "The problems you identified have been deleted.","The problems you identified have been deleted.",module,Magento_Newsletter
@@ -6694,7 +6694,7 @@ Action,Action,module,Magento_Newsletter
 "Please correct the newsletter template and try again.","Please correct the newsletter template and try again.",module,Magento_Newsletter
 "You saved the newsletter queue.","You saved the newsletter queue.",module,Magento_Newsletter
 "Newsletter Subscribers","Newsletter Subscribers",module,Magento_Newsletter
-Newsletter,Newsletter,module,Magento_Newsletter
+Newsletter,Odber noviniek,module,Magento_Newsletter
 Subscribers,Subscribers,module,Magento_Newsletter
 "Please select one or more subscribers.","Please select one or more subscribers.",module,Magento_Newsletter
 "Total of %1 record(s) were deleted.","Total of %1 record(s) were deleted.",module,Magento_Newsletter
@@ -6742,8 +6742,8 @@ Paused,Paused,module,Magento_Newsletter
 Copy,Copy,module,Magento_Newsletter
 "Are you sure you want to delete this template?","Are you sure you want to delete this template?",module,Magento_Newsletter
 "Sign Up for Our Newsletter:","Sign Up for Our Newsletter:",module,Magento_Newsletter
-"Enter your email address","Enter your email address",module,Magento_Newsletter
-Subscribe,Subscribe,module,Magento_Newsletter
+"Enter your email address","Zadajte vašu emailovú adresu",module,Magento_Newsletter
+Subscribe,Odoberať,module,Magento_Newsletter
 "Newsletter subscription confirmation","Newsletter subscription confirmation",module,Magento_Newsletter
 "Thank you for subscribing to our newsletter.","Thank you for subscribing to our newsletter.",module,Magento_Newsletter
 "To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:",module,Magento_Newsletter
@@ -6753,7 +6753,7 @@ Subscribe,Subscribe,module,Magento_Newsletter
 "You have been unsubscribed from the newsletter.","You have been unsubscribed from the newsletter.",module,Magento_Newsletter
 "Newsletter Template","Newsletter Template",module,Magento_Newsletter
 "Newsletter Section","Newsletter Section",module,Magento_Newsletter
-"Subscription Options","Subscription Options",module,Magento_Newsletter
+"Subscription Options","Nastavenia odberov",module,Magento_Newsletter
 "Allow Guest Subscription","Allow Guest Subscription",module,Magento_Newsletter
 "Need to Confirm","Need to Confirm",module,Magento_Newsletter
 "Confirmation Email Sender","Confirmation Email Sender",module,Magento_Newsletter
@@ -6791,7 +6791,7 @@ Unconfirmed,Unconfirmed,module,Magento_Newsletter
 "Web Site","Web Site",module,Magento_Newsletter
 Store,Store,module,Magento_Newsletter
 "Store View","Store View",module,Magento_Newsletter
-"Newsletter Subscriptions","Newsletter Subscriptions",module,Magento_Newsletter
+"Newsletter Subscriptions","Odbery noviniek",module,Magento_Newsletter
 "Make Check payable to:","Vyplatiť šek:",module,Magento_OfflinePayments
 "Send Check to:","Send Check to:",module,Magento_OfflinePayments
 "Purchase Order Number","Purchase Order Number",module,Magento_OfflinePayments
@@ -6799,7 +6799,7 @@ Store,Store,module,Magento_Newsletter
 "Purchase Order Number: %1","Purchase Order Number: %1",module,Magento_OfflinePayments
 "Make Check payable to","Make Check payable to",module,Magento_OfflinePayments
 "Send Check to","Send Check to",module,Magento_OfflinePayments
-"Place Order","Place Order",module,Magento_OfflinePayments
+"Place Order","Odoslať objednávku",module,Magento_OfflinePayments
 "Check / Money Order","Check / Money Order",module,Magento_OfflinePayments
 Enabled,Enabled,module,Magento_OfflinePayments
 "New Order Status","New Order Status",module,Magento_OfflinePayments
@@ -6818,7 +6818,7 @@ Instructions,Instructions,module,Magento_OfflinePayments
 "Automatically Invoice All Items","Automatically Invoice All Items",module,Magento_OfflinePayments
 Country,Krajina,module,Magento_OfflineShipping
 Region/State,Region/State,module,Magento_OfflineShipping
-"Zip/Postal Code","Zip/Postal Code",module,Magento_OfflineShipping
+"Zip/Postal Code","PSČ",module,Magento_OfflineShipping
 "Shipping Price","Shipping Price",module,Magento_OfflineShipping
 "Export CSV","Export CSV",module,Magento_OfflineShipping
 "Store Pickup","Store Pickup",module,Magento_OfflineShipping
@@ -6853,7 +6853,7 @@ Field,Field,module,Magento_OfflineShipping
 "Flat Rate","Flat Rate",module,Magento_OfflineShipping
 Enabled,Enabled,module,Magento_OfflineShipping
 "Method Name","Method Name",module,Magento_OfflineShipping
-Price,Price,module,Magento_OfflineShipping
+Price,Cena,module,Magento_OfflineShipping
 "Calculate Handling Fee","Calculate Handling Fee",module,Magento_OfflineShipping
 "Handling Fee","Handling Fee",module,Magento_OfflineShipping
 "Sort Order","Sort Order",module,Magento_OfflineShipping
@@ -6898,7 +6898,7 @@ Year,Year,module,Magento_Payment
 "We cannot retrieve the payment info model object.","We cannot retrieve the payment info model object.",module,Magento_Payment
 N/A,N/A,module,Magento_Payment
 "Credit Card Type","Credit Card Type",module,Magento_Payment
-"Credit Card Number","Credit Card Number",module,Magento_Payment
+"Credit Card Number","Číslo kreditnej karty",module,Magento_Payment
 "Switch/Solo/Maestro Issue Number","Switch/Solo/Maestro Issue Number",module,Magento_Payment
 "Switch/Solo/Maestro Start Date","Switch/Solo/Maestro Start Date",module,Magento_Payment
 "We cannot retrieve the transparent payment method model object.","We cannot retrieve the transparent payment method model object.",module,Magento_Payment
@@ -6908,7 +6908,7 @@ N/A,N/A,module,Magento_Payment
 "Wrong gateway response format.","Wrong gateway response format.",module,Magento_Payment
 "Validator for field %1 does not exist.","Validator for field %1 does not exist.",module,Magento_Payment
 Discount,Discount,module,Magento_Payment
-Shipping,Shipping,module,Magento_Payment
+Shipping,Doručenie,module,Magento_Payment
 "All Allowed Countries","All Allowed Countries",module,Magento_Payment
 "Specific Countries","Specific Countries",module,Magento_Payment
 "The payment method you requested is not available.","The payment method you requested is not available.",module,Magento_Payment
@@ -6932,8 +6932,8 @@ Yes,Yes,module,Magento_Payment
 No,No,module,Magento_Payment
 "Failure #1","Failure #1",module,Magento_Payment
 "Failure #2","Failure #2",module,Magento_Payment
-"Expiration Date","Expiration Date",module,Magento_Payment
-"Card Verification Number","Card Verification Number",module,Magento_Payment
+"Expiration Date","Dátum expirácie",module,Magento_Payment
+"Card Verification Number","CVV/CVC kód",module,Magento_Payment
 "is not available. You still can process offline actions.","is not available. You still can process offline actions.",module,Magento_Payment
 "Please Select","Please Select",module,Magento_Payment
 "We'll ask for your payment details before you place an order.","We'll ask for your payment details before you place an order.",module,Magento_Payment
@@ -6941,7 +6941,7 @@ No,No,module,Magento_Payment
 "Card Verification Number Visual Reference","Card Verification Number Visual Reference",module,Magento_Payment
 "What is this?","What is this?",module,Magento_Payment
 "Credit Card Information","Credit Card Information",module,Magento_Payment
-"Place Order","Place Order",module,Magento_Payment
+"Place Order","Odoslať objednávku",module,Magento_Payment
 "Forgot an Item?","Forgot an Item?",module,Magento_Payment
 "Edit Your Cart","Edit Your Cart",module,Magento_Payment
 "Please enter a valid credit card type number.","Please enter a valid credit card type number.",module,Magento_Payment
@@ -6955,14 +6955,14 @@ No,No,module,Magento_Payment
 "Billing Agreements","Súhlasy fakturácie",module,Magento_Paypal
 ID,ID,module,Magento_Paypal
 Email,Email,module,Magento_Paypal
-"First Name","First Name",module,Magento_Paypal
-"Last Name","Last Name",module,Magento_Paypal
+"First Name","Meno",module,Magento_Paypal
+"Last Name","Priezvisko",module,Magento_Paypal
 "Reference ID","Reference ID",module,Magento_Paypal
 Status,Status,module,Magento_Paypal
-Created,Created,module,Magento_Paypal
+Created,Vytvorené,module,Magento_Paypal
 N/A,N/A,module,Magento_Paypal
 Updated,Updated,module,Magento_Paypal
-Back,Back,module,Magento_Paypal
+Back,Späť,module,Magento_Paypal
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Paypal
 Cancel,Cancel,module,Magento_Paypal
 "Billing Agreement #%1","Billing Agreement #%1",module,Magento_Paypal
@@ -6972,7 +6972,7 @@ Order,Order,module,Magento_Paypal
 Purchased,Purchased,module,Magento_Paypal
 "Bill-to Name","Bill-to Name",module,Magento_Paypal
 "Ship-to Name","Ship-to Name",module,Magento_Paypal
-"Order Total","Order Total",module,Magento_Paypal
+"Order Total","Objednávka celkom",module,Magento_Paypal
 "Purchase Point","Purchase Point",module,Magento_Paypal
 "Billing Agreement View","Billing Agreement View",module,Magento_Paypal
 "View Transaction Details","View Transaction Details",module,Magento_Paypal
@@ -7310,9 +7310,9 @@ Important:,Important:,module,Magento_Paypal
 "To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.",module,Magento_Paypal
 "Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below",module,Magento_Paypal
 "Credit Card Type","Credit Card Type",module,Magento_Paypal
-"Credit Card Number","Credit Card Number",module,Magento_Paypal
-"Expiration Date","Expiration Date",module,Magento_Paypal
-"Card Verification Number","Card Verification Number",module,Magento_Paypal
+"Credit Card Number","Číslo kreditnej karty",module,Magento_Paypal
+"Expiration Date","Dátum expirácie",module,Magento_Paypal
+"Card Verification Number","CVV/CVC kód",module,Magento_Paypal
 "Billing Agreement #","Billing Agreement #",module,Magento_Paypal
 "Agreement Information","Agreement Information",module,Magento_Paypal
 "Reference ID:","Reference ID:",module,Magento_Paypal
@@ -7320,11 +7320,11 @@ Status:,Status:,module,Magento_Paypal
 Created:,Created:,module,Magento_Paypal
 Updated:,Updated:,module,Magento_Paypal
 "Payment Method:","Payment Method:",module,Magento_Paypal
-"Order #","Order #",module,Magento_Paypal
-Date,Date,module,Magento_Paypal
-"Ship To","Ship To",module,Magento_Paypal
+"Order #","Objednávka č.",module,Magento_Paypal
+Date,Dátum,module,Magento_Paypal
+"Ship To","Doručiť",module,Magento_Paypal
 "Order Status","Order Status",module,Magento_Paypal
-"View Order","View Order",module,Magento_Paypal
+"View Order","Zobraziť objednávku",module,Magento_Paypal
 "Back to Billing Agreements","Back to Billing Agreements",module,Magento_Paypal
 "Payment Method","Payment Method",module,Magento_Paypal
 View,View,module,Magento_Paypal
@@ -7339,18 +7339,18 @@ Create...,Create...,module,Magento_Paypal
 "Please select a shipping method...","Please select a shipping method...",module,Magento_Paypal
 "Update Shipping Method","Update Shipping Method",module,Magento_Paypal
 "Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now.",module,Magento_Paypal
-"Shipping Address","Shipping Address",module,Magento_Paypal
-Edit,Edit,module,Magento_Paypal
+"Shipping Address","Dodacia adresa",module,Magento_Paypal
+Edit,Upraviť,module,Magento_Paypal
 "Buy now with PayPal","Buy now with PayPal",module,Magento_Paypal
 "Edit Payment Information","Edit Payment Information",module,Magento_Paypal
 "Items in Your Shopping Cart","Položky vo Vašom košíku",module,Magento_Paypal
 "Edit Shopping Cart","Upraviť košík",module,Magento_Paypal
-"Place Order","Place Order",module,Magento_Paypal
+"Place Order","Odoslať objednávku",module,Magento_Paypal
 "Submitting order information...","Submitting order information...",module,Magento_Paypal
-Item,Item,module,Magento_Paypal
-Price,Price,module,Magento_Paypal
+Item,Položka,module,Magento_Paypal
+Price,Cena,module,Magento_Paypal
 Qty,Qty,module,Magento_Paypal
-Subtotal,Subtotal,module,Magento_Paypal
+Subtotal,Medzisúčet,module,Magento_Paypal
 "Please update order data to get shipping methods and rates","Please update order data to get shipping methods and rates",module,Magento_Paypal
 or,or,module,Magento_Paypal
 "Checkout with PayPal","Checkout with PayPal",module,Magento_Paypal
@@ -7363,7 +7363,7 @@ Continue,Continue,module,Magento_Paypal
 "What is PayPal?","What is PayPal?",module,Magento_Paypal
 "Sign a billing agreement to streamline further purchases  with PayPal.","Sign a billing agreement to streamline further purchases  with PayPal.",module,Magento_Paypal
 "Sign a billing agreement to streamline further purchases with PayPal.","Sign a billing agreement to streamline further purchases with PayPal.",module,Magento_Paypal
-"Continue to PayPal","Continue to PayPal",module,Magento_Paypal
+"Continue to PayPal","Pokračovať na PayPal",module,Magento_Paypal
 "Save credit card information for future use.","Save credit card information for future use.",module,Magento_Paypal
 "Sorry, something went wrong.","Sorry, something went wrong.",module,Magento_Paypal
 "Sorry, something went wrong. Please try again later.","Sorry, something went wrong. Please try again later.",module,Magento_Paypal
@@ -7435,7 +7435,7 @@ Manage,Manage,module,Magento_Paypal
 "Get Publisher ID from PayPal","Get Publisher ID from PayPal",module,Magento_Paypal
 "Home Page","Home Page",module,Magento_Paypal
 Display,Display,module,Magento_Paypal
-Position,Position,module,Magento_Paypal
+Position,Pozícia,module,Magento_Paypal
 Size,Size,module,Magento_Paypal
 "Catalog Category Page","Catalog Category Page",module,Magento_Paypal
 "Catalog Product Page","Catalog Product Page",module,Magento_Paypal
@@ -7479,7 +7479,7 @@ Enabled,Enabled,module,Magento_Paypal
 "Settlement Report Settings","Settlement Report Settings",module,Magento_Paypal
 "SFTP Credentials","SFTP Credentials",module,Magento_Paypal
 Login,Login,module,Magento_Paypal
-Password,Password,module,Magento_Paypal
+Password,Heslo,module,Magento_Paypal
 "Custom Endpoint Hostname or IP-Address","Custom Endpoint Hostname or IP-Address",module,Magento_Paypal
 "By default it is ""reports.paypal.com"".","By default it is ""reports.paypal.com"".",module,Magento_Paypal
 "Use colon to specify port. For example: ""test.example.com:5224"".","Use colon to specify port. For example: ""test.example.com:5224"".",module,Magento_Paypal
@@ -7680,7 +7680,7 @@ Duration:,Duration:,module,Magento_ProductVideo
 "Video cant be shown due to the following reason:","Video cant be shown due to the following reason:",module,Magento_ProductVideo
 "Video not found","Video not found",module,Magento_ProductVideo
 "New Video","New Video",module,Magento_ProductVideo
-Save,Save,module,Magento_ProductVideo
+Save,Uložiť,module,Magento_ProductVideo
 Cancel,Cancel,module,Magento_ProductVideo
 Delete,Delete,module,Magento_ProductVideo
 "Edit Video","Edit Video",module,Magento_ProductVideo
@@ -7944,8 +7944,8 @@ Unlimited,Unlimited,module,Magento_Reports
 "Most Viewed","Most Viewed",module,Magento_Reports
 "Show Report","Show Report",module,Magento_Reports
 Interval,Interval,module,Magento_Reports
-Total,Total,module,Magento_Reports
-Price,Price,module,Magento_Reports
+Total,Celkom,module,Magento_Reports
+Price,Cena,module,Magento_Reports
 Views,Views,module,Magento_Reports
 "Refresh Statistics","Refresh Statistics",module,Magento_Reports
 "Customers Reviews","Customers Reviews",module,Magento_Reports
@@ -7953,12 +7953,12 @@ Views,Views,module,Magento_Reports
 Customer,Customer,module,Magento_Reports
 Title,Title,module,Magento_Reports
 Detail,Detail,module,Magento_Reports
-Created,Created,module,Magento_Reports
+Created,Vytvorené,module,Magento_Reports
 "Products Reviews","Products Reviews",module,Magento_Reports
 "Products Bestsellers Report","Products Bestsellers Report",module,Magento_Reports
 "Order Quantity","Order Quantity",module,Magento_Reports
 "Coupons Usage Report","Coupons Usage Report",module,Magento_Reports
-Subtotal,Subtotal,module,Magento_Reports
+Subtotal,Medzisúčet,module,Magento_Reports
 "Coupon Code","Coupon Code",module,Magento_Reports
 "Price Rule","Price Rule",module,Magento_Reports
 Uses,Uses,module,Magento_Reports
@@ -7988,7 +7988,7 @@ Refunded,Refunded,module,Magento_Reports
 "Sales Tax","Sales Tax",module,Magento_Reports
 Tax,Tax,module,Magento_Reports
 "Sales Shipping","Sales Shipping",module,Magento_Reports
-Shipping,Shipping,module,Magento_Reports
+Shipping,Doručenie,module,Magento_Reports
 Canceled,Canceled,module,Magento_Reports
 "Total Shipped Report","Total Shipped Report",module,Magento_Reports
 Carrier/Method,Carrier/Method,module,Magento_Reports
@@ -8006,8 +8006,8 @@ Updated,Updated,module,Magento_Reports
 "IP Address","IP Address",module,Magento_Reports
 Customers,Customers,module,Magento_Reports
 ID,ID,module,Magento_Reports
-"First Name","First Name",module,Magento_Reports
-"Last Name","Last Name",module,Magento_Reports
+"First Name","Meno",module,Magento_Reports
+"Last Name","Priezvisko",module,Magento_Reports
 "Items in Cart","Items in Cart",module,Magento_Reports
 "Products in carts","Products in carts",module,Magento_Reports
 Carts,Carts,module,Magento_Reports
@@ -8031,7 +8031,7 @@ Reports,Reports,module,Magento_Reports
 "Product Views Report","Product Views Report",module,Magento_Reports
 "An error occurred while showing the product views report. Please review the log and try again.","An error occurred while showing the product views report. Please review the log and try again.",module,Magento_Reports
 Review,Review,module,Magento_Reports
-Reviews,Reviews,module,Magento_Reports
+Reviews,Hodnotenia,module,Magento_Reports
 "Customers Report","Customers Report",module,Magento_Reports
 "Customer Reviews Report","Customer Reviews Report",module,Magento_Reports
 "Product Reviews Report","Product Reviews Report",module,Magento_Reports
@@ -8089,7 +8089,7 @@ Marketing,Marketing,module,Magento_Reports
 "By Customers","By Customers",module,Magento_Reports
 "By Products","By Products",module,Magento_Reports
 Refunds,Refunds,module,Magento_Reports
-"Order Total","Order Total",module,Magento_Reports
+"Order Total","Objednávka celkom",module,Magento_Reports
 "Order Count","Order Count",module,Magento_Reports
 New,New,module,Magento_Reports
 Ordered,Ordered,module,Magento_Reports
@@ -8122,7 +8122,7 @@ Average,Average,module,Magento_Reports
 "The report displays the top 5 most viewed products for each interval.","The report displays the top 5 most viewed products for each interval.",module,Magento_Reports
 "For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.","For accurate reporting, be sure to refresh lifetime statistics whenever you change the time zone.",module,Magento_Reports
 Guest,Guest,module,Magento_Reports
-Action,Action,module,Magento_Reports
+Action,Akcia,module,Magento_Reports
 "Average (Approved)","Average (Approved)",module,Magento_Reports
 "Last Review","Last Review",module,Magento_Reports
 "Order Created","Order Created",module,Magento_Reports
@@ -8140,7 +8140,7 @@ Description,Description,module,Magento_Reports
 undefined,undefined,module,Magento_Reports
 "Save Review","Save Review",module,Magento_Review
 "New Review","New Review",module,Magento_Review
-"Review Details","Review Details",module,Magento_Review
+"Review Details","Podrobnosti hodnotenia",module,Magento_Review
 Product,Product,module,Magento_Review
 "Product Rating","Product Rating",module,Magento_Review
 Status,Status,module,Magento_Review
@@ -8151,7 +8151,7 @@ Review,Review,module,Magento_Review
 Previous,Previous,module,Magento_Review
 "Save and Previous","Save and Previous",module,Magento_Review
 "Save and Next","Save and Next",module,Magento_Review
-Next,Next,module,Magento_Review
+Next,Pokračovať,module,Magento_Review
 "Delete Review","Delete Review",module,Magento_Review
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Review
 "Edit Review '%1'","Edit Review '%1'",module,Magento_Review
@@ -8162,12 +8162,12 @@ Author,Author,module,Magento_Review
 "Summary Rating","Summary Rating",module,Magento_Review
 "Detailed Rating","Detailed Rating",module,Magento_Review
 ID,ID,module,Magento_Review
-Created,Created,module,Magento_Review
+Created,Vytvorené,module,Magento_Review
 Title,Title,module,Magento_Review
 Type,Type,module,Magento_Review
 SKU,SKU,module,Magento_Review
-Action,Action,module,Magento_Review
-Edit,Edit,module,Magento_Review
+Action,Akcia,module,Magento_Review
+Edit,Upraviť,module,Magento_Review
 Delete,Delete,module,Magento_Review
 "Are you sure?","Are you sure?",module,Magento_Review
 "Update Status","Update Status",module,Magento_Review
@@ -8179,7 +8179,7 @@ Customer,Customer,module,Magento_Review
 "All Reviews","All Reviews",module,Magento_Review
 Name,Name,module,Magento_Review
 "Product Store Name","Product Store Name",module,Magento_Review
-Price,Price,module,Magento_Review
+Price,Cena,module,Magento_Review
 Quantity,Quantity,module,Magento_Review
 Websites,Websites,module,Magento_Review
 "Manage Ratings","Manage Ratings",module,Magento_Review
@@ -8203,8 +8203,8 @@ Websites,Websites,module,Magento_Review
 "Click <a href=""%1"">here</a> to see the review.","Click <a href=""%1"">here</a> to see the review.",module,Magento_Review
 "Product: ""%1"" reviewed by: %2","Product: ""%1"" reviewed by: %2",module,Magento_Review
 "Pending Reviews RSS","Pending Reviews RSS",module,Magento_Review
-"Reviews %1","Reviews %1",module,Magento_Review
-Reviews,Reviews,module,Magento_Review
+"Reviews %1","Hodnotenia %1",module,Magento_Review
+Reviews,Hodnotenia,module,Magento_Review
 "The review has been deleted.","The review has been deleted.",module,Magento_Review
 "Something went wrong  deleting this review.","Something went wrong  deleting this review.",module,Magento_Review
 "Customer Reviews","Customer Reviews",module,Magento_Review
@@ -8221,13 +8221,13 @@ Reviews,Reviews,module,Magento_Review
 "You deleted the rating.","You deleted the rating.",module,Magento_Review
 Ratings,Ratings,module,Magento_Review
 "You saved the rating.","You saved the rating.",module,Magento_Review
-"My Product Reviews","My Product Reviews",module,Magento_Review
+"My Product Reviews","Moje hodnotenia produktov",module,Magento_Review
 "Cannot initialize product","Cannot initialize product",module,Magento_Review
 "You submitted your review for moderation.","You submitted your review for moderation.",module,Magento_Review
 "We can't post your review right now.","We can't post your review right now.",module,Magento_Review
 "Storage key was not set","Storage key was not set",module,Magento_Review
 Approved,Approved,module,Magento_Review
-Pending,Pending,module,Magento_Review
+Pending,Čakajúce,module,Magento_Review
 "Not Approved","Not Approved",module,Magento_Review
 "Please enter a review summary.","Please enter a review summary.",module,Magento_Review
 "Please enter a nickname.","Please enter a nickname.",module,Magento_Review
@@ -8236,18 +8236,18 @@ Pending,Pending,module,Magento_Review
 "Please specify a rating title for a store, or we'll just use the default value.","Please specify a rating title for a store, or we'll just use the default value.",module,Magento_Review
 "Assigned Options","Assigned Options",module,Magento_Review
 "Option Title:","Option Title:",module,Magento_Review
-"Product Name","Product Name",module,Magento_Review
+"Product Name","Názov produktu",module,Magento_Review
 Rating,Rating,module,Magento_Review
 Actions,Actions,module,Magento_Review
-"See Details","See Details",module,Magento_Review
+"See Details","Zobraziť podrobnosti",module,Magento_Review
 "You have submitted no reviews.","You have submitted no reviews.",module,Magento_Review
-Back,Back,module,Magento_Review
+Back,Späť,module,Magento_Review
 "My Recent Reviews","My Recent Reviews",module,Magento_Review
-"View All","View All",module,Magento_Review
+"View All","Zobraziť všetko",module,Magento_Review
 "Average Customer Rating:","Average Customer Rating:",module,Magento_Review
 "Your Review","Your Review",module,Magento_Review
-"Submitted on %1","Submitted on %1",module,Magento_Review
-"Back to My Reviews","Back to My Reviews",module,Magento_Review
+"Submitted on %1","Pridané %1",module,Magento_Review
+"Back to My Reviews","Späť na moje hodnotenia",module,Magento_Review
 "Ratings Review Summary","Ratings Review Summary",module,Magento_Review
 "Be the first to review this product","Be the first to review this product",module,Magento_Review
 "Write Your Own Review","Write Your Own Review",module,Magento_Review
@@ -8266,14 +8266,14 @@ Summary,Summary,module,Magento_Review
 "Average Customer Rating","Average Customer Rating",module,Magento_Review
 "Product Rating:","Product Rating:",module,Magento_Review
 "Product Review (submitted on %1):","Product Review (submitted on %1):",module,Magento_Review
-"Back to Product Reviews","Back to Product Reviews",module,Magento_Review
+"Back to Product Reviews","Späť na hodnotenia produktov",module,Magento_Review
 "By Customers","By Customers",module,Magento_Review
 "By Products","By Products",module,Magento_Review
 "Allow Guests to Write Reviews","Allow Guests to Write Reviews",module,Magento_Review
 Active,Active,module,Magento_Review
 Inactive,Inactive,module,Magento_Review
 ID,ID,module,Magento_ReviewStaging
-Created,Created,module,Magento_ReviewStaging
+Created,Vytvorené,module,Magento_ReviewStaging
 Status,Status,module,Magento_ReviewStaging
 Title,Title,module,Magento_ReviewStaging
 Nickname,Nickname,module,Magento_ReviewStaging
@@ -8367,12 +8367,12 @@ First,First,module,Magento_Reward
 "Refund Reward Points","Refund Reward Points",module,Magento_Reward
 "Reward Points refunded to customer","Reward Points refunded to customer",module,Magento_Reward
 Remove,Remove,module,Magento_Reward
-Back,Back,module,Magento_Reward
+Back,Späť,module,Magento_Reward
 "Balance History","Balance History",module,Magento_Reward
 Amount,Amount,module,Magento_Reward
 Points,Points,module,Magento_Reward
 Reason,Reason,module,Magento_Reward
-Date,Date,module,Magento_Reward
+Date,Dátum,module,Magento_Reward
 "Expires on %1","Expires on %1",module,Magento_Reward
 "There is no balance history.","There is no balance history.",module,Magento_Reward
 "Reward points balance Information","Reward points balance Information",module,Magento_Reward
@@ -8436,7 +8436,7 @@ Registration,Registration,module,Magento_Reward
 "Entering no value or a value greater than the expiration lifetime disables the warning notification.","Entering no value or a value greater than the expiration lifetime disables the warning notification.",module,Magento_Reward
 "Reward Points Rates","Reward Points Rates",module,Magento_Reward
 "Amount Balance","Amount Balance",module,Magento_Reward
-Created,Created,module,Magento_Reward
+Created,Vytvorené,module,Magento_Reward
 Expires,Expires,module,Magento_Reward
 ID,ID,module,Magento_Reward
 "Add Reward Points","Add Reward Points",module,Magento_Reward
@@ -8494,9 +8494,9 @@ Approved,Approved,module,Magento_Rma
 "Return Reason","Return Reason",module,Magento_Rma
 "Item Condition","Item Condition",module,Magento_Rma
 Resolution,Resolution,module,Magento_Rma
-Details,Details,module,Magento_Rma
+Details,Podrobnosti,module,Magento_Rma
 Split,Split,module,Magento_Rma
-Action,Action,module,Magento_Rma
+Action,Akcia,module,Magento_Rma
 "Return Information","Return Information",module,Magento_Rma
 RMA,RMA,module,Magento_Rma
 Ordered,Ordered,module,Magento_Rma
@@ -8536,14 +8536,14 @@ Yes,Yes,module,Magento_Rma
 "Submit Returns","Submit Returns",module,Magento_Rma
 "Add Products","Add Products",module,Magento_Rma
 "Add Selected Product(s) to returns","Add Selected Product(s) to returns",module,Magento_Rma
-"Product Name","Product Name",module,Magento_Rma
+"Product Name","Názov produktu",module,Magento_Rma
 "Remaining Qty","Remaining Qty",module,Magento_Rma
 "Requested Qty","Requested Qty",module,Magento_Rma
 "Reason to Return","Reason to Return",module,Magento_Rma
 Delete,Delete,module,Magento_Rma
 "Add Details","Add Details",module,Magento_Rma
 Select,Select,module,Magento_Rma
-Price,Price,module,Magento_Rma
+Price,Cena,module,Magento_Rma
 "The wrong RMA was requested.","The wrong RMA was requested.",module,Magento_Rma
 "This is the wrong RMA order ID.","This is the wrong RMA order ID.",module,Magento_Rma
 "Invalid RMA","Invalid RMA",module,Magento_Rma
@@ -8616,9 +8616,9 @@ Dropdown,Dropdown,module,Magento_Rma
 "Only one RMA is available for printing","Only one RMA is available for printing",module,Magento_Rma
 "Return #","Return #",module,Magento_Rma
 "Return Date:","Return Date:",module,Magento_Rma
-"Order #","Order #",module,Magento_Rma
+"Order #","Objednávka č.",module,Magento_Rma
 Ordered:,Ordered:,module,Magento_Rma
-"Shipping Address:","Shipping Address:",module,Magento_Rma
+"Shipping Address:","Dodacia adresa:",module,Magento_Rma
 "Return Address:","Return Address:",module,Magento_Rma
 Condition,Condition,module,Magento_Rma
 Qty,Qty,module,Magento_Rma
@@ -8635,7 +8635,7 @@ Qty,Qty,module,Magento_Rma
 """%1"" is longer than allowed.","""%1"" is longer than allowed.",module,Magento_Rma
 "Unknown service","Unknown service",module,Magento_Rma
 "We can't save this RMA. No items were specified.","We can't save this RMA. No items were specified.",module,Magento_Rma
-Pending,Pending,module,Magento_Rma
+Pending,Čakajúce,module,Magento_Rma
 "Partially Authorized","Partially Authorized",module,Magento_Rma
 "Return Received","Return Received",module,Magento_Rma
 "Return Partially Received","Return Partially Received",module,Magento_Rma
@@ -8675,7 +8675,7 @@ ID,ID,module,Magento_Rma
 #,#,module,Magento_Rma
 "Order ID","Order ID",module,Magento_Rma
 "Customer Name","Customer Name",module,Magento_Rma
-"Email Address","Email Address",module,Magento_Rma
+"Email Address","E-mailová adresa",module,Magento_Rma
 "RMA History","RMA History",module,Magento_Rma
 "Comment Text","Comment Text",module,Magento_Rma
 "Notify Customer by Email","Notify Customer by Email",module,Magento_Rma
@@ -8707,7 +8707,7 @@ Number,Number,module,Magento_Rma
 "RMA Items Requested for","RMA Items Requested for",module,Magento_Rma
 "Please Select Products to Add","Please Select Products to Add",module,Magento_Rma
 Remove,Remove,module,Magento_Rma
-Item,Item,module,Magento_Rma
+Item,Položka,module,Magento_Rma
 "Return items","Return items",module,Magento_Rma
 Sub-items,Sub-items,module,Magento_Rma
 "Quantity To Return","Quantity To Return",module,Magento_Rma
@@ -8717,11 +8717,11 @@ Email,Email,module,Magento_Rma
 "Return Items Information","Return Items Information",module,Magento_Rma
 "Add Item To Return","Add Item To Return",module,Magento_Rma
 Comments,Comments,module,Magento_Rma
-Save,Save,module,Magento_Rma
+Save,Uložiť,module,Magento_Rma
 Submit,Submit,module,Magento_Rma
-Back,Back,module,Magento_Rma
+Back,Späť,module,Magento_Rma
 "Return #","Return #",module,Magento_Rma
-Date,Date,module,Magento_Rma
+Date,Dátum,module,Magento_Rma
 "Ship From","Ship From",module,Magento_Rma
 "Return Status","Return Status",module,Magento_Rma
 Actions,Actions,module,Magento_Rma
@@ -8739,7 +8739,7 @@ Height,Height,module,Magento_Rma
 "Are you sure you want to delete this tracking information?","Are you sure you want to delete this tracking information?",module,Magento_Rma
 "Request Information","Request Information",module,Magento_Rma
 "Date Requested","Date Requested",module,Magento_Rma
-"Shipping Address","Shipping Address",module,Magento_Rma
+"Shipping Address","Dodacia adresa",module,Magento_Rma
 "This won't take long . . .","This won't take long . . .",module,Magento_Rma
 "Shipping and Tracking Information","Shipping and Tracking Information",module,Magento_Rma
 "Track this shipment","Track this shipment",module,Magento_Rma
@@ -8776,11 +8776,11 @@ Ok,Ok,module,Magento_Rma
 "Enable RMA on Product Level","Enable RMA on Product Level",module,Magento_Rma
 "Use Store Address","Use Store Address",module,Magento_Rma
 "Contact Name","Contact Name",module,Magento_Rma
-"Street Address","Street Address",module,Magento_Rma
-City,City,module,Magento_Rma
-State/Province,State/Province,module,Magento_Rma
+"Street Address","Ulica",module,Magento_Rma
+City,Mesto,module,Magento_Rma
+State/Province,Štát/provincia,module,Magento_Rma
 "ZIP/Postal Code","ZIP/Postal Code",module,Magento_Rma
-Country,Country,module,Magento_Rma
+Country,Krajina,module,Magento_Rma
 Enabled,Enabled,module,Magento_Rma
 "RMA Email Sender","RMA Email Sender",module,Magento_Rma
 "RMA Email Template","RMA Email Template",module,Magento_Rma
@@ -8839,7 +8839,7 @@ FALSE,FALSE,module,Magento_Rule
 "If %1 of these conditions are %2:","If %1 of these conditions are %2:",module,Magento_Rule
 "Conditions Combination","Conditions Combination",module,Magento_Rule
 "Attribute Set","Attribute Set",module,Magento_Rule
-Category,Category,module,Magento_Rule
+Category,Kategória,module,Magento_Rule
 "Open Chooser","Open Chooser",module,Magento_Rule
 "Unknown condition operator","Unknown condition operator",module,Magento_Rule
 "There is no information about associated entity type ""%1"".","There is no information about associated entity type ""%1"".",module,Magento_Rule
@@ -8850,7 +8850,7 @@ Invoices,Invoices,module,Magento_Sales
 "We can't get the order instance right now.","We can't get the order instance right now.",module,Magento_Sales
 "Create New Order","Create New Order",module,Magento_Sales
 "Save Order Address","Save Order Address",module,Magento_Sales
-Shipping,Shipping,module,Magento_Sales
+Shipping,Doručenie,module,Magento_Sales
 Billing,Billing,module,Magento_Sales
 "Edit Order %1 %2 Address","Edit Order %1 %2 Address",module,Magento_Sales
 "Order Address Information","Order Address Information",module,Magento_Sales
@@ -8859,7 +8859,7 @@ Billing,Billing,module,Magento_Sales
 "Submit Order","Submit Order",module,Magento_Sales
 "Are you sure you want to cancel this order?","Are you sure you want to cancel this order?",module,Magento_Sales
 Cancel,Cancel,module,Magento_Sales
-"Billing Address","Billing Address",module,Magento_Sales
+"Billing Address","Fakturačná adresa",module,Magento_Sales
 "Payment Method","Payment Method",module,Magento_Sales
 "Order Comment","Order Comment",module,Magento_Sales
 Coupons,Coupons,module,Magento_Sales
@@ -8874,7 +8874,7 @@ Message,Message,module,Magento_Sales
 "Create New Order in %1","Create New Order in %1",module,Magento_Sales
 "Create New Order for %1","Create New Order for %1",module,Magento_Sales
 "Create New Order for New Customer","Create New Order for New Customer",module,Magento_Sales
-"Items Ordered","Items Ordered",module,Magento_Sales
+"Items Ordered","Objednaný tovar",module,Magento_Sales
 "This product is disabled.","This product is disabled.",module,Magento_Sales
 "Buy %1 for price %2","Buy %1 for price %2",module,Magento_Sales
 "Item ordered qty","Item ordered qty",module,Magento_Sales
@@ -8890,10 +8890,10 @@ Configure,Configure,module,Magento_Sales
 ID,ID,module,Magento_Sales
 Product,Product,module,Magento_Sales
 SKU,SKU,module,Magento_Sales
-Price,Price,module,Magento_Sales
+Price,Cena,module,Magento_Sales
 Select,Select,module,Magento_Sales
 Quantity,Quantity,module,Magento_Sales
-"Shipping Address","Shipping Address",module,Magento_Sales
+"Shipping Address","Dodacia adresa",module,Magento_Sales
 "Shipping Method","Shipping Method",module,Magento_Sales
 "Update Changes","Update Changes",module,Magento_Sales
 "Shopping Cart","Nákupný košík",module,Magento_Sales
@@ -8963,7 +8963,7 @@ Capture,Capture,module,Magento_Sales
 "Total Paid","Total Paid",module,Magento_Sales
 "Total Refunded","Total Refunded",module,Magento_Sales
 "Total Due","Total Due",module,Magento_Sales
-Edit,Edit,module,Magento_Sales
+Edit,Upraviť,module,Magento_Sales
 "Are you sure you want to send an order email to customer?","Are you sure you want to send an order email to customer?",module,Magento_Sales
 "This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?",module,Magento_Sales
 "Are you sure you want to void the payment?","Are you sure you want to void the payment?",module,Magento_Sales
@@ -9010,19 +9010,19 @@ Yes,Yes,module,Magento_Sales
 No,No,module,Magento_Sales
 "Show Actual Values","Show Actual Values",module,Magento_Sales
 "New Order RSS","New Order RSS",module,Magento_Sales
-Subtotal,Subtotal,module,Magento_Sales
+Subtotal,Medzisúčet,module,Magento_Sales
 "Shipping & Handling","Shipping & Handling",module,Magento_Sales
 "Discount (%1)","Discount (%1)",module,Magento_Sales
 Discount,Discount,module,Magento_Sales
 "Grand Total","Grand Total",module,Magento_Sales
-Back,Back,module,Magento_Sales
+Back,Späť,module,Magento_Sales
 Fetch,Fetch,module,Magento_Sales
 "Transaction # %1 | %2","Transaction # %1 | %2",module,Magento_Sales
 N/A,N/A,module,Magento_Sales
 Key,Key,module,Magento_Sales
 Value,Value,module,Magento_Sales
 "We found an invalid entity model.","We found an invalid entity model.",module,Magento_Sales
-"Order # %1","Order # %1",module,Magento_Sales
+"Order # %1","Objednávka č. %1",module,Magento_Sales
 "Back to My Orders","Back to My Orders",module,Magento_Sales
 "View Another Order","View Another Order",module,Magento_Sales
 "About Your Refund","About Your Refund",module,Magento_Sales
@@ -9130,7 +9130,7 @@ Home,Home,module,Magento_Sales
 "We can't find this wish list.","We can't find this wish list.",module,Magento_Sales
 "We could not add a product to cart by the ID ""%1"".","We could not add a product to cart by the ID ""%1"".",module,Magento_Sales
 "There is an error in one of the option rows.","There is an error in one of the option rows.",module,Magento_Sales
-"Shipping Address:","Shipping Address:",module,Magento_Sales
+"Shipping Address:","Dodacia adresa:",module,Magento_Sales
 "Billing Address:","Billing Address:",module,Magento_Sales
 "Please specify order items.","Please specify order items.",module,Magento_Sales
 "Please specify a shipping method.","Please specify a shipping method.",module,Magento_Sales
@@ -9159,7 +9159,7 @@ Guest,Guest,module,Magento_Sales
 "Requested entity doesn't exist","Requested entity doesn't exist",module,Magento_Sales
 "Could not delete order address","Could not delete order address",module,Magento_Sales
 "Could not save order address","Could not save order address",module,Magento_Sales
-Pending,Pending,module,Magento_Sales
+Pending,Čakajúce,module,Magento_Sales
 Refunded,Refunded,module,Magento_Sales
 Canceled,Canceled,module,Magento_Sales
 "Unknown State","Unknown State",module,Magento_Sales
@@ -9227,8 +9227,8 @@ Authorization,Authorization,module,Magento_Sales
 "Please set a proper payment and order id.","Please set a proper payment and order id.",module,Magento_Sales
 "Please enter a Transaction ID.","Please enter a Transaction ID.",module,Magento_Sales
 "You can't do this without a transaction object.","You can't do this without a transaction object.",module,Magento_Sales
-"Order #","Order #",module,Magento_Sales
-"Order Date:","Order Date:",module,Magento_Sales
+"Order #","Objednávka č.",module,Magento_Sales
+"Order Date:","Dátum objednávky:",module,Magento_Sales
 "Sold to:","Sold to:",module,Magento_Sales
 "Ship to:","Ship to:",module,Magento_Sales
 "Payment Method:","Payment Method:",module,Magento_Sales
@@ -9276,16 +9276,16 @@ title,title,module,Magento_Sales
 """Creditmemo Document Validation Error(s):\n"" .","""Creditmemo Document Validation Error(s):\n"" .",module,Magento_Sales
 "Could not save a Creditmemo, see error log for details","Could not save a Creditmemo, see error log for details",module,Magento_Sales
 "We cannot determine the field name.","We cannot determine the field name.",module,Magento_Sales
-City,City,module,Magento_Sales
-Company,Company,module,Magento_Sales
-Country,Country,module,Magento_Sales
+City,Mesto,module,Magento_Sales
+Company,Spoločnosť,module,Magento_Sales
+Country,Krajina,module,Magento_Sales
 Email,Email,module,Magento_Sales
-"First Name","First Name",module,Magento_Sales
-"Last Name","Last Name",module,Magento_Sales
-State/Province,State/Province,module,Magento_Sales
-"Street Address","Street Address",module,Magento_Sales
-"Phone Number","Phone Number",module,Magento_Sales
-"Zip/Postal Code","Zip/Postal Code",module,Magento_Sales
+"First Name","Meno",module,Magento_Sales
+"Last Name","Priezvisko",module,Magento_Sales
+State/Province,Štát/provincia,module,Magento_Sales
+"Street Address","Ulica",module,Magento_Sales
+"Phone Number","Telefónne číslo",module,Magento_Sales
+"Zip/Postal Code","PSČ",module,Magento_Sales
 "We can't save the address:\n%1","We can't save the address:\n%1",module,Magento_Sales
 "Cannot save comment:\n%1","Cannot save comment:\n%1",module,Magento_Sales
 "We don't have enough information to save the parent transaction ID.","We don't have enough information to save the parent transaction ID.",module,Magento_Sales
@@ -9342,17 +9342,17 @@ Apply,Apply,module,Magento_Sales
 Remove,Remove,module,Magento_Sales
 "Address Information","Address Information",module,Magento_Sales
 "Payment &amp; Shipping Information","Payment &amp; Shipping Information",module,Magento_Sales
-"Order Total","Order Total",module,Magento_Sales
+"Order Total","Objednávka celkom",module,Magento_Sales
 "Order Currency:","Order Currency:",module,Magento_Sales
 "Same As Billing Address","Same As Billing Address",module,Magento_Sales
 "Select from existing customer addresses:","Select from existing customer addresses:",module,Magento_Sales
-"Add New Address","Add New Address",module,Magento_Sales
+"Add New Address","Pridať novú adresu",module,Magento_Sales
 "Save in address book","Save in address book",module,Magento_Sales
 "You don't need to select a shipping address.","You don't need to select a shipping address.",module,Magento_Sales
 "Gift Message for the Entire Order","Gift Message for the Entire Order",module,Magento_Sales
 "Leave this box blank if you don't want to leave a gift message for the entire order.","Leave this box blank if you don't want to leave a gift message for the entire order.",module,Magento_Sales
 "Row Subtotal","Row Subtotal",module,Magento_Sales
-Action,Action,module,Magento_Sales
+Action,Akcia,module,Magento_Sales
 "No ordered items","No ordered items",module,Magento_Sales
 "Update Items and Quantities","Update Items and Quantities",module,Magento_Sales
 "Total %1 product(s)","Total %1 product(s)",module,Magento_Sales
@@ -9369,7 +9369,7 @@ Subtotal:,Subtotal:,module,Magento_Sales
 "You don't need to select a shipping method.","You don't need to select a shipping method.",module,Magento_Sales
 "Customer's Activities","Customer's Activities",module,Magento_Sales
 Refresh,Refresh,module,Magento_Sales
-Item,Item,module,Magento_Sales
+Item,Položka,module,Magento_Sales
 "Add To Order","Add To Order",module,Magento_Sales
 "Configure and Add to Order","Configure and Add to Order",module,Magento_Sales
 "No items","No items",module,Magento_Sales
@@ -9430,7 +9430,7 @@ Comment,Comment,module,Magento_Sales
 "Order & Account Information","Order & Account Information",module,Magento_Sales
 "The order confirmation email was sent","The order confirmation email was sent",module,Magento_Sales
 "The order confirmation email is not sent","The order confirmation email is not sent",module,Magento_Sales
-"Order Date","Order Date",module,Magento_Sales
+"Order Date","Dátum objednávky",module,Magento_Sales
 "Order Date (%1)","Order Date (%1)",module,Magento_Sales
 "Purchased From","Purchased From",module,Magento_Sales
 "Link to the New Order","Link to the New Order",module,Magento_Sales
@@ -9462,15 +9462,15 @@ Continue,Continue,module,Magento_Sales
 "Print All Refunds","Print All Refunds",module,Magento_Sales
 "Refund #","Refund #",module,Magento_Sales
 "Print Refund","Print Refund",module,Magento_Sales
-"Product Name","Product Name",module,Magento_Sales
-"Order #","Order #",module,Magento_Sales
-Date,Date,module,Magento_Sales
-"Ship To","Ship To",module,Magento_Sales
+"Product Name","Názov produktu",module,Magento_Sales
+"Order #","Objednávka č.",module,Magento_Sales
+Date,Dátum,module,Magento_Sales
+"Ship To","Doručiť",module,Magento_Sales
 Actions,Actions,module,Magento_Sales
-"View Order","View Order",module,Magento_Sales
+"View Order","Zobraziť objednávku",module,Magento_Sales
 "You have placed no orders.","You have placed no orders.",module,Magento_Sales
 "No shipping information available","No shipping information available",module,Magento_Sales
-"Print Order","Print Order",module,Magento_Sales
+"Print Order","Tlačiť objednávku",module,Magento_Sales
 "Print All Invoices","Print All Invoices",module,Magento_Sales
 "Invoice #","Invoice #",module,Magento_Sales
 "Print Invoice","Print Invoice",module,Magento_Sales
@@ -9481,8 +9481,8 @@ Close,Close,module,Magento_Sales
 "Refund #%1","Refund #%1",module,Magento_Sales
 "Shipment #%1","Shipment #%1",module,Magento_Sales
 "Qty Shipped","Qty Shipped",module,Magento_Sales
-"Recent Orders","Recent Orders",module,Magento_Sales
-"View All","View All",module,Magento_Sales
+"Recent Orders","Nedávne objednávky",module,Magento_Sales
+"View All","Zobraziť všetko",module,Magento_Sales
 "Gift Message for This Order","Gift Message for This Order",module,Magento_Sales
 "Recently Ordered","Recently Ordered",module,Magento_Sales
 "Add to Cart","Add to Cart",module,Magento_Sales
@@ -9613,7 +9613,7 @@ Phone,Phone,module,Magento_Sales
 "Signed-up Point","Signed-up Point",module,Magento_Sales
 Website,Website,module,Magento_Sales
 "Bill-to Name","Bill-to Name",module,Magento_Sales
-Created,Created,module,Magento_Sales
+Created,Vytvorené,module,Magento_Sales
 "Invoice Date","Invoice Date",module,Magento_Sales
 "Ship-to Name","Ship-to Name",module,Magento_Sales
 "Ship Date","Ship Date",module,Magento_Sales
@@ -9667,21 +9667,21 @@ Add,Add,module,Magento_SalesArchive
 "Purchased From","Purchased From",module,Magento_SalesArchive
 "PDF Credit Memos","PDF Credit Memos",module,Magento_SalesArchive
 "Credit Memo","Credit Memo",module,Magento_SalesArchive
-Created,Created,module,Magento_SalesArchive
+Created,Vytvorené,module,Magento_SalesArchive
 Order,Order,module,Magento_SalesArchive
-"Order Date","Order Date",module,Magento_SalesArchive
+"Order Date","Dátum objednávky",module,Magento_SalesArchive
 "Bill-to Name","Bill-to Name",module,Magento_SalesArchive
 Status,Status,module,Magento_SalesArchive
 Refunded,Refunded,module,Magento_SalesArchive
 "Order Status","Order Status",module,Magento_SalesArchive
-"Billing Address","Billing Address",module,Magento_SalesArchive
-"Shipping Address","Shipping Address",module,Magento_SalesArchive
+"Billing Address","Fakturačná adresa",module,Magento_SalesArchive
+"Shipping Address","Dodacia adresa",module,Magento_SalesArchive
 "Customer Name","Customer Name",module,Magento_SalesArchive
 Email,Email,module,Magento_SalesArchive
 "Customer Group","Customer Group",module,Magento_SalesArchive
 "Payment Method","Payment Method",module,Magento_SalesArchive
 "Shipping Information","Shipping Information",module,Magento_SalesArchive
-Subtotal,Subtotal,module,Magento_SalesArchive
+Subtotal,Medzisúčet,module,Magento_SalesArchive
 "Shipping & Handling","Shipping & Handling",module,Magento_SalesArchive
 "Adjustment Refund","Adjustment Refund",module,Magento_SalesArchive
 "Adjustment Fee","Adjustment Fee",module,Magento_SalesArchive
@@ -9708,7 +9708,7 @@ ID,ID,module,Magento_SalesArchive
 "PDF Invoices","PDF Invoices",module,Magento_SalesArchive
 Invoice,Invoice,module,Magento_SalesArchive
 "Invoice Date","Invoice Date",module,Magento_SalesArchive
-"Order #","Order #",module,Magento_SalesArchive
+"Order #","Objednávka č.",module,Magento_SalesArchive
 Amount,Amount,module,Magento_SalesArchive
 "PDF Shipments","PDF Shipments",module,Magento_SalesArchive
 Shipment,Shipment,module,Magento_SalesArchive
@@ -9723,7 +9723,7 @@ Delete,Delete,module,Magento_SalesRule
 "Are you sure you want to delete this?","Are you sure you want to delete this?",module,Magento_SalesRule
 Reset,Reset,module,Magento_SalesRule
 "Save and Continue Edit","Save and Continue Edit",module,Magento_SalesRule
-Save,Save,module,Magento_SalesRule
+Save,Uložiť,module,Magento_SalesRule
 Actions,Actions,module,Magento_SalesRule
 "Apply the rule only to cart items matching the following conditions (leave blank for all items).","Apply the rule only to cart items matching the following conditions (leave blank for all items).",module,Magento_SalesRule
 "Apply To","Apply To",module,Magento_SalesRule
@@ -9740,7 +9740,7 @@ Conditions,Conditions,module,Magento_SalesRule
 "If empty no separation.","If empty no separation.",module,Magento_SalesRule
 Generate,Generate,module,Magento_SalesRule
 "Coupon Code","Coupon Code",module,Magento_SalesRule
-Created,Created,module,Magento_SalesRule
+Created,Vytvorené,module,Magento_SalesRule
 Uses,Uses,module,Magento_SalesRule
 No,No,module,Magento_SalesRule
 Yes,Yes,module,Magento_SalesRule
@@ -9795,7 +9795,7 @@ Auto,Auto,module,Magento_SalesRule
 "By Fixed value","By Fixed value",module,Magento_SalesRule
 "By Percentage","By Percentage",module,Magento_SalesRule
 "Update product's %1 %2: %3","Update product's %1 %2: %3",module,Magento_SalesRule
-Subtotal,Subtotal,module,Magento_SalesRule
+Subtotal,Medzisúčet,module,Magento_SalesRule
 "Total Items Quantity","Total Items Quantity",module,Magento_SalesRule
 "Total Weight","Total Weight",module,Magento_SalesRule
 "Shipping Method","Shipping Method",module,Magento_SalesRule
@@ -9838,9 +9838,9 @@ Inactive,Inactive,module,Magento_SalesRule
 "Some coupons are invalid.","Some coupons are invalid.",module,Magento_SalesRule
 "Item totals are not set for the rule.","Item totals are not set for the rule.",module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Cart Price Rules based on ""%2"" attribute have been disabled.",module,Magento_SalesRule
-"Apply Discount Code","Apply Discount Code",module,Magento_SalesRule
-"Enter discount code","Enter discount code",module,Magento_SalesRule
-"Apply Discount","Apply Discount",module,Magento_SalesRule
+"Apply Discount Code","Uplatniť zľavový kód",module,Magento_SalesRule
+"Enter discount code","Zadajte zľavový kód",module,Magento_SalesRule
+"Apply Discount","Uplatniť zľavu",module,Magento_SalesRule
 "Cancel coupon","Cancel coupon",module,Magento_SalesRule
 "Your coupon was successfully removed.","Your coupon was successfully removed.",module,Magento_SalesRule
 "Your coupon was successfully applied.","Your coupon was successfully applied.",module,Magento_SalesRule
@@ -9849,7 +9849,7 @@ Promotion,Promotion,module,Magento_SalesRule
 "Web Site","Web Site",module,Magento_SalesRule
 Priority,Priority,module,Magento_SalesRule
 "Cart Price Rule","Cart Price Rule",module,Magento_SalesRule
-Back,Back,module,Magento_SalesRule
+Back,Späť,module,Magento_SalesRule
 "Currently Active","Currently Active",module,Magento_SalesRule
 "Rule Information","Rule Information",module,Magento_SalesRule
 "Rule Name","Rule Name",module,Magento_SalesRule
@@ -9884,8 +9884,8 @@ Status,Status,module,Magento_SalesRuleStaging
 Active,Active,module,Magento_SalesRuleStaging
 Inactive,Inactive,module,Magento_SalesRuleStaging
 "Web Site","Web Site",module,Magento_SalesRuleStaging
-Action,Action,module,Magento_SalesRuleStaging
-Edit,Edit,module,Magento_SalesRuleStaging
+Action,Akcia,module,Magento_SalesRuleStaging
+Edit,Upraviť,module,Magento_SalesRuleStaging
 "Scheduled Changes","Scheduled Changes",module,Magento_SalesRuleStaging
 Name,Name,module,Magento_SalesRuleStaging
 Description,Description,module,Magento_SalesRuleStaging
@@ -9957,7 +9957,7 @@ Status,Status,module,Magento_ScheduledImportExport
 "For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir",module,Magento_ScheduledImportExport
 "FTP Host[:Port]","FTP Host[:Port]",module,Magento_ScheduledImportExport
 "User Name","User Name",module,Magento_ScheduledImportExport
-Password,Password,module,Magento_ScheduledImportExport
+Password,Heslo,module,Magento_ScheduledImportExport
 "File Mode","File Mode",module,Magento_ScheduledImportExport
 "Passive Mode","Passive Mode",module,Magento_ScheduledImportExport
 "Failed Email Receiver","Failed Email Receiver",module,Magento_ScheduledImportExport
@@ -10035,9 +10035,9 @@ Binary,Binary,module,Magento_ScheduledImportExport
 ASCII,ASCII,module,Magento_ScheduledImportExport
 "Stop Import","Stop Import",module,Magento_ScheduledImportExport
 "Continue Processing","Continue Processing",module,Magento_ScheduledImportExport
-Failed,Failed,module,Magento_ScheduledImportExport
-Successful,Successful,module,Magento_ScheduledImportExport
-Pending,Pending,module,Magento_ScheduledImportExport
+Failed,Neúspešné,module,Magento_ScheduledImportExport
+Successful,Úspešné,module,Magento_ScheduledImportExport
+Pending,Čakajúce,module,Magento_ScheduledImportExport
 label,label,module,Magento_ScheduledImportExport
 "Can not open file","Can not open file",module,Magento_ScheduledImportExport
 "%store_name - Scheduled Export Failed","%store_name - Scheduled Export Failed",module,Magento_ScheduledImportExport
@@ -10062,8 +10062,8 @@ Delete,Delete,module,Magento_ScheduledImportExport
 Operation,Operation,module,Magento_ScheduledImportExport
 "Last Run","Last Run",module,Magento_ScheduledImportExport
 "Last Outcome","Last Outcome",module,Magento_ScheduledImportExport
-Action,Action,module,Magento_ScheduledImportExport
-Edit,Edit,module,Magento_ScheduledImportExport
+Action,Akcia,module,Magento_ScheduledImportExport
+Edit,Upraviť,module,Magento_ScheduledImportExport
 Run,Run,module,Magento_ScheduledImportExport
 "Search Term","Hľadaný výraz",module,Magento_Search
 Results,Results,module,Magento_Search
@@ -10071,7 +10071,7 @@ Uses,Uses,module,Magento_Search
 "Search Terms","Search Terms",module,Magento_Search
 "Search Synonyms","Search Synonyms",module,Magento_Search
 "New Synonym Group","New Synonym Group",module,Magento_Search
-Back,Back,module,Magento_Search
+Back,Späť,module,Magento_Search
 "Delete Synonym Group","Delete Synonym Group",module,Magento_Search
 "Are you sure you want to delete this synonym group?","Are you sure you want to delete this synonym group?",module,Magento_Search
 Reset,Reset,module,Magento_Search
@@ -10141,8 +10141,8 @@ Hits,Hits,module,Magento_Search
 "Suggested Terms","Suggested Terms",module,Magento_Search
 yes,yes,module,Magento_Search
 no,no,module,Magento_Search
-Action,Action,module,Magento_Search
-Edit,Edit,module,Magento_Search
+Action,Akcia,module,Magento_Search
+Edit,Upraviť,module,Magento_Search
 Scope,Scope,module,Magento_Search
 "You can adjust the scope of this synonym group by selecting an option from the list.","You can adjust the scope of this synonym group by selecting an option from the list.",module,Magento_Search
 Synonyms,Synonyms,module,Magento_Search
@@ -10216,7 +10216,7 @@ Invitee,Invitee,module,Magento_SendFriend
 "Maximum %1 email addresses allowed.","Maximum %1 email addresses allowed.",module,Magento_SendFriend
 "Add Invitee","Add Invitee",module,Magento_SendFriend
 "Send Email","Send Email",module,Magento_SendFriend
-Back,Back,module,Magento_SendFriend
+Back,Späť,module,Magento_SendFriend
 "Welcome, %name","Welcome, %name",module,Magento_SendFriend
 "%name,","%name,",module,Magento_SendFriend
 "%sender_name wants to share this product with you:","%sender_name wants to share this product with you:",module,Magento_SendFriend
@@ -10248,7 +10248,7 @@ Print,Print,module,Magento_Shipping
 "Print Shipping Label","Print Shipping Label",module,Magento_Shipping
 "Show Packages","Show Packages",module,Magento_Shipping
 "About Your Shipment","About Your Shipment",module,Magento_Shipping
-"Order # %1","Order # %1",module,Magento_Shipping
+"Order # %1","Objednávka č. %1",module,Magento_Shipping
 "Back to My Orders","Back to My Orders",module,Magento_Shipping
 "View Another Order","View Another Order",module,Magento_Shipping
 "Please enter a comment.","Please enter a comment.",module,Magento_Shipping
@@ -10336,11 +10336,11 @@ Ship,Ship,module,Magento_Shipping
 "Email Copy of Shipment","Email Copy of Shipment",module,Magento_Shipping
 "Invalid value(s) for Qty to Ship","Invalid value(s) for Qty to Ship",module,Magento_Shipping
 "Select All","Select All",module,Magento_Shipping
-"Product Name","Product Name",module,Magento_Shipping
+"Product Name","Názov produktu",module,Magento_Shipping
 Delete,Delete,module,Magento_Shipping
 "Create Packages","Create Packages",module,Magento_Shipping
 Cancel,Cancel,module,Magento_Shipping
-Save,Save,module,Magento_Shipping
+Save,Uložiť,module,Magento_Shipping
 "Add Package","Add Package",module,Magento_Shipping
 "Add Selected Product(s) to Package","Add Selected Product(s) to Package",module,Magento_Shipping
 "Add Products to Package","Add Products to Package",module,Magento_Shipping
@@ -10354,7 +10354,7 @@ Explanation,Explanation,module,Magento_Shipping
 Carrier,Carrier,module,Magento_Shipping
 Title,Title,module,Magento_Shipping
 Number,Number,module,Magento_Shipping
-Action,Action,module,Magento_Shipping
+Action,Akcia,module,Magento_Shipping
 "Are you sure?","Are you sure?",module,Magento_Shipping
 "Shipping &amp; Handling Information","Shipping &amp; Handling Information",module,Magento_Shipping
 "Track Order","Track Order",module,Magento_Shipping
@@ -10362,7 +10362,7 @@ Action,Action,module,Magento_Shipping
 "Shipping and Tracking Information","Shipping and Tracking Information",module,Magento_Shipping
 "Track this shipment","Track this shipment",module,Magento_Shipping
 "Items Shipped","Items Shipped",module,Magento_Shipping
-"Order Total","Order Total",module,Magento_Shipping
+"Order Total","Objednávka celkom",module,Magento_Shipping
 "Shipment History","Shipment History",module,Magento_Shipping
 "Qty Shipped","Qty Shipped",module,Magento_Shipping
 "Print All Shipments","Print All Shipments",module,Magento_Shipping
@@ -10388,7 +10388,7 @@ N/A,N/A,module,Magento_Shipping
 "Close Window","Close Window",module,Magento_Shipping
 "Track history","Track history",module,Magento_Shipping
 Location,Location,module,Magento_Shipping
-Date,Date,module,Magento_Shipping
+Date,Dátum,module,Magento_Shipping
 "Local Time","Local Time",module,Magento_Shipping
 Description,Description,module,Magento_Shipping
 "See our Shipping Policy","See our Shipping Policy",module,Magento_Shipping
@@ -10397,16 +10397,16 @@ Description,Description,module,Magento_Shipping
 "Shipping Methods Section","Shipping Methods Section",module,Magento_Shipping
 "Shipping Settings","Shipping Settings",module,Magento_Shipping
 Origin,Origin,module,Magento_Shipping
-Country,Country,module,Magento_Shipping
+Country,Krajina,module,Magento_Shipping
 Region/State,Region/State,module,Magento_Shipping
 "ZIP/Postal Code","ZIP/Postal Code",module,Magento_Shipping
-City,City,module,Magento_Shipping
-"Street Address","Street Address",module,Magento_Shipping
+City,Mesto,module,Magento_Shipping
+"Street Address","Ulica",module,Magento_Shipping
 "Street Address Line 2","Street Address Line 2",module,Magento_Shipping
 "Shipping Policy Parameters","Shipping Policy Parameters",module,Magento_Shipping
 "Apply custom Shipping Policy","Apply custom Shipping Policy",module,Magento_Shipping
 "Shipping Policy","Shipping Policy",module,Magento_Shipping
-"Shipping Methods","Shipping Methods",module,Magento_Shipping
+"Shipping Methods","Spôsoby doručenia",module,Magento_Shipping
 "Track your order","Track your order",module,Magento_Shipping
 Yes,Yes,module,Magento_Signifyd
 No,No,module,Magento_Signifyd
@@ -10507,7 +10507,7 @@ Enabled,Enabled,module,Magento_Sitemap
 ID,ID,module,Magento_Sitemap
 "Link for Google","Link for Google",module,Magento_Sitemap
 "Last Generated","Last Generated",module,Magento_Sitemap
-Action,Action,module,Magento_Sitemap
+Action,Akcia,module,Magento_Sitemap
 "This search no longer exists.","This search no longer exists.",module,Magento_Solr
 "We were unable to perform the search because of a search engine misconfiguration.","We were unable to perform the search because of a search engine misconfiguration.",module,Magento_Solr
 "Could not ping search engine: %1","Could not ping search engine: %1",module,Magento_Solr
@@ -10528,7 +10528,7 @@ Cancel,Cancel,module,Magento_Staging
 Preview,Preview,module,Magento_Staging
 Done,Done,module,Magento_Staging
 "Remove from Update","Remove from Update",module,Magento_Staging
-Save,Save,module,Magento_Staging
+Save,Uložiť,module,Magento_Staging
 "Schedule New Update","Schedule New Update",module,Magento_Staging
 "View Specific Date","View Specific Date",module,Magento_Staging
 "Date & Time","Date & Time",module,Magento_Staging
@@ -10584,7 +10584,7 @@ End,End,module,Magento_Staging
 "Share Preview Link","Share Preview Link",module,Magento_Staging
 Staging,Staging,module,Magento_Staging
 "Create New Update","Create New Update",module,Magento_Staging
-Back,Back,module,Magento_Staging
+Back,Späť,module,Magento_Staging
 General,General,module,Magento_Staging
 Status,Status,module,Magento_Staging
 "Update Name","Update Name",module,Magento_Staging
@@ -10592,7 +10592,7 @@ Includes,Includes,module,Magento_Staging
 "Start Time","Start Time",module,Magento_Staging
 "End Time","End Time",module,Magento_Staging
 Description,Description,module,Magento_Staging
-Action,Action,module,Magento_Staging
+Action,Akcia,module,Magento_Staging
 "MMM d, y h:mm a","MMM d, y h:mm a",module,Magento_Staging
 "Invalid store parameter.","Invalid store parameter.",module,Magento_Store
 "Current store is not active.","Current store is not active.",module,Magento_Store
@@ -10734,7 +10734,7 @@ Void,Void,module,Magento_Support
 "Partial Refund Offline","Partial Refund Offline",module,Magento_Support
 "Payments Functionality Matrix","Payments Functionality Matrix",module,Magento_Support
 "Payment Methods","Payment Methods",module,Magento_Support
-"Shipping Methods","Shipping Methods",module,Magento_Support
+"Shipping Methods","Spôsoby doručenia",module,Magento_Support
 "Job Code","Job Code",module,Magento_Support
 "Cron Expression","Cron Expression",module,Magento_Support
 "Run Class","Run Class",module,Magento_Support
@@ -10979,7 +10979,7 @@ Shuffle,Shuffle,module,Magento_TargetRule
 "Validate error 1","Validate error 1",module,Magento_TargetRule
 "Validate error 2","Validate error 2",module,Magento_TargetRule
 "Attribute Set","Attribute Set",module,Magento_TargetRule
-Category,Category,module,Magento_TargetRule
+Category,Kategória,module,Magento_TargetRule
 "Please choose a condition to add.","Please choose a condition to add.",module,Magento_TargetRule
 Close,Close,module,Magento_TargetRule
 "Rule-based Settings","Rule-based Settings",module,Magento_TargetRule
@@ -11016,11 +11016,11 @@ End,End,module,Magento_TargetRule
 "Range From","Range From",module,Magento_Tax
 "Range To","Range To",module,Magento_Tax
 State,State,module,Magento_Tax
-Country,Country,module,Magento_Tax
+Country,Krajina,module,Magento_Tax
 "Rate Percent","Rate Percent",module,Magento_Tax
 "Tax Titles","Tax Titles",module,Magento_Tax
 "Add New Tax Rate","Add New Tax Rate",module,Magento_Tax
-Back,Back,module,Magento_Tax
+Back,Späť,module,Magento_Tax
 Reset,Reset,module,Magento_Tax
 "Delete Rate","Delete Rate",module,Magento_Tax
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Tax
@@ -11087,8 +11087,8 @@ Tax,Tax,module,Magento_Tax
 "You cannot delete this tax class because it is used in existing %1(s).","You cannot delete this tax class because it is used in existing %1(s).",module,Magento_Tax
 "Custom price if available","Custom price if available",module,Magento_Tax
 "Original price only","Original price only",module,Magento_Tax
-"Shipping Address","Shipping Address",module,Magento_Tax
-"Billing Address","Billing Address",module,Magento_Tax
+"Shipping Address","Dodacia adresa",module,Magento_Tax
+"Billing Address","Fakturačná adresa",module,Magento_Tax
 "Shipping Origin","Shipping Origin",module,Magento_Tax
 "No (price without tax)","No (price without tax)",module,Magento_Tax
 "Yes (only price with tax)","Yes (only price with tax)",module,Magento_Tax
@@ -11104,10 +11104,10 @@ Code,Code,module,Magento_Tax
 "Shipping (Incl. Tax)","Shipping (Incl. Tax)",module,Magento_Tax
 "Subtotal (Excl. Tax)","Subtotal (Excl. Tax)",module,Magento_Tax
 "Subtotal (Incl. Tax)","Subtotal (Incl. Tax)",module,Magento_Tax
-Subtotal,Subtotal,module,Magento_Tax
+Subtotal,Medzisúčet,module,Magento_Tax
 "Unit Price","Unit Price",module,Magento_Tax
 "Row Total","Row Total",module,Magento_Tax
-Total,Total,module,Magento_Tax
+Total,Celkom,module,Magento_Tax
 "Before Discount","Before Discount",module,Magento_Tax
 "After Discount","After Discount",module,Magento_Tax
 "Excluding Tax","Excluding Tax",module,Magento_Tax
@@ -11139,7 +11139,7 @@ Note:,Note:,module,Magento_Tax
 "Leave this field empty if you wish to use the tax identifier.","Leave this field empty if you wish to use the tax identifier.",module,Magento_Tax
 "An error occurred","An error occurred",module,Magento_Tax
 "Do you really want to delete this tax rate?","Do you really want to delete this tax rate?",module,Magento_Tax
-Save,Save,module,Magento_Tax
+Save,Uložiť,module,Magento_Tax
 "Add New Class","Add New Class",module,Magento_Tax
 "Grand Total Excl. Tax","Grand Total Excl. Tax",module,Magento_Tax
 "Grand Total Incl. Tax","Grand Total Incl. Tax",module,Magento_Tax
@@ -11184,10 +11184,10 @@ Rate,Rate,module,Magento_Tax
 "(Incl. Tax)","(Incl. Tax)",module,Magento_Tax
 "Order Total Excl. Tax","Order Total Excl. Tax",module,Magento_Tax
 "Order Total Incl. Tax","Order Total Incl. Tax",module,Magento_Tax
-"Order Total","Order Total",module,Magento_Tax
+"Order Total","Objednávka celkom",module,Magento_Tax
 "Your credit card will be charged for","Your credit card will be charged for",module,Magento_Tax
 Code,Code,module,Magento_TaxImportExport
-Country,Country,module,Magento_TaxImportExport
+Country,Krajina,module,Magento_TaxImportExport
 State,State,module,Magento_TaxImportExport
 "Zip/Post Code","Zip/Post Code",module,Magento_TaxImportExport
 Rate,Rate,module,Magento_TaxImportExport
@@ -11301,7 +11301,7 @@ Message,Message,module,Magento_Theme
 "Test Label","Test Label",module,Magento_Theme
 Phrase,Phrase,module,Magento_Theme
 testMessage,testMessage,module,Magento_Theme
-Edit,Edit,module,Magento_Theme
+Edit,Upraviť,module,Magento_Theme
 "We found no files.","We found no files.",module,Magento_Theme
 "Browse Files","Browse Files",module,Magento_Theme
 Scope:,Scope:,module,Magento_Theme
@@ -11321,7 +11321,7 @@ Remove,Remove,module,Magento_Theme
 Page,Page,module,Magento_Theme
 Previous,Previous,module,Magento_Theme
 "You're currently reading page","You're currently reading page",module,Magento_Theme
-Next,Next,module,Magento_Theme
+Next,Pokračovať,module,Magento_Theme
 Show,Show,module,Magento_Theme
 "per page","per page",module,Magento_Theme
 "About the calendar","About the calendar",module,Magento_Theme
@@ -11335,7 +11335,7 @@ Minute,Minute,module,Magento_Theme
 "Welcome to %store_name.","Welcome to %store_name.",module,Magento_Theme
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",module,Magento_Theme
 Email:,Email:,module,Magento_Theme
-Password:,Password:,module,Magento_Theme
+Password:,Heslo:,module,Magento_Theme
 "Password you set when creating account","Password you set when creating account",module,Magento_Theme
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",module,Magento_Theme
 "When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",module,Magento_Theme
@@ -11618,7 +11618,7 @@ Container,Container,module,Magento_Ups
 "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)",module,Magento_Ups
 "Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)","Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)",module,Magento_Ups
 "Origin of the Shipment","Origin of the Shipment",module,Magento_Ups
-Password,Password,module,Magento_Ups
+Password,Heslo,module,Magento_Ups
 "Pickup Method","Pickup Method",module,Magento_Ups
 "Sort Order","Sort Order",module,Magento_Ups
 Title,Title,module,Magento_Ups
@@ -11660,10 +11660,10 @@ Title,Title,module,Magento_UrlRewrite
 "Edit URL Rewrite","Edit URL Rewrite",module,Magento_UrlRewrite
 "Add New URL Rewrite","Add New URL Rewrite",module,Magento_UrlRewrite
 Reset,Reset,module,Magento_UrlRewrite
-Back,Back,module,Magento_UrlRewrite
+Back,Späť,module,Magento_UrlRewrite
 Delete,Delete,module,Magento_UrlRewrite
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_UrlRewrite
-Save,Save,module,Magento_UrlRewrite
+Save,Uložiť,module,Magento_UrlRewrite
 "Block Information","Block Information",module,Magento_UrlRewrite
 "URL Rewrite Information","URL Rewrite Information",module,Magento_UrlRewrite
 "Request Path","Request Path",module,Magento_UrlRewrite
@@ -11696,9 +11696,9 @@ No,No,module,Magento_UrlRewrite
 "URL key for specified store already exists.","URL key for specified store already exists.",module,Magento_UrlRewrite
 "Custom storage message","Custom storage message",module,Magento_UrlRewrite
 "Select Category","Select Category",module,Magento_UrlRewrite
-Action,Action,module,Magento_UrlRewrite
-Edit,Edit,module,Magento_UrlRewrite
-Back,Back,module,Magento_User
+Action,Akcia,module,Magento_UrlRewrite
+Edit,Upraviť,module,Magento_UrlRewrite
+Back,Späť,module,Magento_User
 Reset,Reset,module,Magento_User
 "Delete Role","Delete Role",module,Magento_User
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_User
@@ -11709,8 +11709,8 @@ Roles,Roles,module,Magento_User
 "Role Users","Role Users",module,Magento_User
 "User ID","User ID",module,Magento_User
 "User Name","User Name",module,Magento_User
-"First Name","First Name",module,Magento_User
-"Last Name","Last Name",module,Magento_User
+"First Name","Meno",module,Magento_User
+"Last Name","Priezvisko",module,Magento_User
 Email,Email,module,Magento_User
 Status,Status,module,Magento_User
 Active,Active,module,Magento_User
@@ -11730,8 +11730,8 @@ Users,Users,module,Magento_User
 "New User","New User",module,Magento_User
 "Account Information","Account Information",module,Magento_User
 "User Email","User Email",module,Magento_User
-Password,Password,module,Magento_User
-"New Password","New Password",module,Magento_User
+Password,Heslo,module,Magento_User
+"New Password","Nové heslo",module,Magento_User
 "Password Confirmation","Password Confirmation",module,Magento_User
 "Interface Locale","Interface Locale",module,Magento_User
 "This account is","This account is",module,Magento_User
@@ -11776,7 +11776,7 @@ Recommended,Recommended,module,Magento_User
 Forced,Forced,module,Magento_User
 "Sorry, but this password has already been used. Please create another.","Sorry, but this password has already been used. Please create another.",module,Magento_User
 email,email,module,Magento_User
-password,password,module,Magento_User
+password,Heslo,module,Magento_User
 username,username,module,Magento_User
 "You did not sign in correctly or your account is temporarily disabled.","You did not sign in correctly or your account is temporarily disabled.",module,Magento_User
 "You need more permissions to access this.","You need more permissions to access this.",module,Magento_User
@@ -11794,12 +11794,12 @@ username,username,module,Magento_User
 "Your password has expired; please contact your administrator.","Your password has expired; please contact your administrator.",module,Magento_User
 "Password Help","Password Help",module,Magento_User
 "Enter your email address.  You will receive an email with a link to reset your password.","Enter your email address.  You will receive an email with a link to reset your password.",module,Magento_User
-"Email address","Email address",module,Magento_User
+"Email address","E-mailová adresa",module,Magento_User
 "Retrieve Password","Retrieve Password",module,Magento_User
 "Back to Sign in","Back to Sign in",module,Magento_User
 "Forgot your password?","Forgot your password?",module,Magento_User
 "Reset a Password","Reset a Password",module,Magento_User
-"Confirm New Password","Confirm New Password",module,Magento_User
+"Confirm New Password","Potvrdenie nového hesla",module,Magento_User
 "Reset Password","Reset Password",module,Magento_User
 "Roles Resources","Roles Resources",module,Magento_User
 "Resource Access","Resource Access",module,Magento_User
@@ -11951,7 +11951,7 @@ USPS,USPS,module,Magento_Usps
 "Secure Gateway URL","Secure Gateway URL",module,Magento_Usps
 Title,Title,module,Magento_Usps
 "User ID","User ID",module,Magento_Usps
-Password,Password,module,Magento_Usps
+Password,Heslo,module,Magento_Usps
 Mode,Mode,module,Magento_Usps
 "Packages Request Type","Packages Request Type",module,Magento_Usps
 Container,Container,module,Magento_Usps
@@ -12003,7 +12003,7 @@ Name,Name,module,Magento_Variable
 "Stored Payment Methods","Stored Payment Methods",module,Magento_Vault
 "No available payment tokens for specified order payment.","No available payment tokens for specified order payment.",module,Magento_Vault
 "Card Number","Card Number",module,Magento_Vault
-"Expiration Date","Expiration Date",module,Magento_Vault
+"Expiration Date","Dátum expirácie",module,Magento_Vault
 Type,Type,module,Magento_Vault
 "You have no stored payment methods.","You have no stored payment methods.",module,Magento_Vault
 ending,ending,module,Magento_Vault
@@ -12047,7 +12047,7 @@ Frame,Frame,module,Magento_VersionsCms
 "Add selected page(s) to the tree","Add selected page(s) to the tree",module,Magento_VersionsCms
 "Remove from tree.","Remove from tree.",module,Magento_VersionsCms
 Cancel,Cancel,module,Magento_VersionsCms
-Save,Save,module,Magento_VersionsCms
+Save,Uložiť,module,Magento_VersionsCms
 "Add Node...","Add Node...",module,Magento_VersionsCms
 "Add to tree.","Add to tree.",module,Magento_VersionsCms
 Update,Update,module,Magento_VersionsCms
@@ -12120,7 +12120,7 @@ Page:,Page:,module,Magento_VersionsCms
 Page,Page,module,Magento_VersionsCms
 Previous,Previous,module,Magento_VersionsCms
 "You're currently reading page","You're currently reading page",module,Magento_VersionsCms
-Next,Next,module,Magento_VersionsCms
+Next,Pokračovať,module,Magento_VersionsCms
 "Delete Revision and Version","Delete Revision and Version",module,Magento_VersionsCms
 "Publish Revision","Publish Revision",module,Magento_VersionsCms
 Pages,Pages,module,Magento_VersionsCms
@@ -12137,8 +12137,8 @@ Template,Template,module,Magento_VersionsCms
 "All Store Views","All Store Views",module,Magento_VersionsCms
 "Search All Products","Search All Products",module,Magento_VisualMerchandiser
 "Add Product by SKU","Add Product by SKU",module,Magento_VisualMerchandiser
-Position,Position,module,Magento_VisualMerchandiser
-Action,Action,module,Magento_VisualMerchandiser
+Position,Pozícia,module,Magento_VisualMerchandiser
+Action,Akcia,module,Magento_VisualMerchandiser
 Unassign,Unassign,module,Magento_VisualMerchandiser
 Top,Top,module,Magento_VisualMerchandiser
 Bottom,Bottom,module,Magento_VisualMerchandiser
@@ -12223,7 +12223,7 @@ Sort,Sort,module,Magento_VisualMerchandiser
 "Sort order","Sort order",module,Magento_VisualMerchandiser
 Thumbnail,Thumbnail,module,Magento_VisualMerchandiser
 Name,Name,module,Magento_VisualMerchandiser
-Price,Price,module,Magento_VisualMerchandiser
+Price,Cena,module,Magento_VisualMerchandiser
 SKU,SKU,module,Magento_VisualMerchandiser
 Stock,Stock,module,Magento_VisualMerchandiser
 "Consumer is not authorized to access %resources","Consumer is not authorized to access %resources",module,Magento_Webapi
@@ -12281,9 +12281,9 @@ frontend_label,frontend_label,module,Magento_Weee
 Country/State,Country/State,module,Magento_Weee
 Tax,Tax,module,Magento_Weee
 Website,Website,module,Magento_Weee
-Action,Action,module,Magento_Weee
+Action,Akcia,module,Magento_Weee
 "Excl. Tax","Excl. Tax",module,Magento_Weee
-Total,Total,module,Magento_Weee
+Total,Celkom,module,Magento_Weee
 "Incl. Tax","Incl. Tax",module,Magento_Weee
 "Total Incl. Tax","Total Incl. Tax",module,Magento_Weee
 "Final Price","Final Price",module,Magento_Weee
@@ -12375,7 +12375,7 @@ Conditions,Conditions,module,Magento_Widget
 "We can't specify a product.","We can't specify a product.",module,Magento_Wishlist
 "We can't add the item to Wish List right now: %1.","We can't add the item to Wish List right now: %1.",module,Magento_Wishlist
 "We can't add the item to Wish List right now.","We can't add the item to Wish List right now.",module,Magento_Wishlist
-"You added %1 to your shopping cart.","You added %1 to your shopping cart.",module,Magento_Wishlist
+"You added %1 to your shopping cart.","Vložili ste %1 do svojho košíka.",module,Magento_Wishlist
 "This product(s) is out of stock.","This product(s) is out of stock.",module,Magento_Wishlist
 "We can't add the item to the cart right now.","We can't add the item to the cart right now.",module,Magento_Wishlist
 "We can't load the Wish List item right now.","We can't load the Wish List item right now.",module,Magento_Wishlist
@@ -12436,19 +12436,19 @@ Qty,Qty,module,Magento_Wishlist
 Availability,Availability,module,Magento_Wishlist
 "In stock","In stock",module,Magento_Wishlist
 "Out of stock","Out of stock",module,Magento_Wishlist
-Edit,Edit,module,Magento_Wishlist
+Edit,Upraviť,module,Magento_Wishlist
 "Remove Item","Remove Item",module,Magento_Wishlist
 "Remove item","Remove item",module,Magento_Wishlist
 "Add to Compare","Add to Compare",module,Magento_Wishlist
 "This Wish List has no Items","This Wish List has no Items",module,Magento_Wishlist
 "%1 has been added to your Wish List.","%1 has been added to your Wish List.",module,Magento_Wishlist
-"Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">here</a> to continue shopping.",module,Magento_Wishlist
-"See Details","See Details",module,Magento_Wishlist
+"Click <a href=""%1"">here</a> to continue shopping.","Kliknite <a href=""%1"">sem</a> pre pokračovanie v nákupe.",module,Magento_Wishlist
+"See Details","Zobraziť podrobnosti",module,Magento_Wishlist
 "Options Details","Options Details",module,Magento_Wishlist
 "RSS link to %1's wishlist","RSS link to %1's wishlist",module,Magento_Wishlist
 "RSS Feed","RSS Feed",module,Magento_Wishlist
 Product,Product,module,Magento_Wishlist
-Back,Back,module,Magento_Wishlist
+Back,Späť,module,Magento_Wishlist
 "Wish List is empty now.","Wish List is empty now.",module,Magento_Wishlist
 "* Required Fields","* Required Fields",module,Magento_Wishlist
 "Sharing Information","Sharing Information",module,Magento_Wishlist
@@ -12475,13 +12475,13 @@ Enabled,Enabled,module,Magento_Wishlist
 "Display Wish List Summary","Display Wish List Summary",module,Magento_Wishlist
 "Enable RSS","Enable RSS",module,Magento_Wishlist
 "No Items Found","No Items Found",module,Magento_Wishlist
-"Product Name","Product Name",module,Magento_Wishlist
+"Product Name","Názov produktu",module,Magento_Wishlist
 "User Description","User Description",module,Magento_Wishlist
 Quantity,Quantity,module,Magento_Wishlist
 "Add Locale","Add Locale",module,Magento_Wishlist
 "Add Date","Add Date",module,Magento_Wishlist
 "Days in Wish List","Days in Wish List",module,Magento_Wishlist
-Action,Action,module,Magento_Wishlist
+Action,Akcia,module,Magento_Wishlist
 Configure,Configure,module,Magento_Wishlist
 Delete,Delete,module,Magento_Wishlist
 "Product Details and Comment","Product Details and Comment",module,Magento_Wishlist
