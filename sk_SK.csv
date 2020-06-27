@@ -3334,7 +3334,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Ship Here","Ship Here",module,Magento_Checkout
 "Ship To:","Ship To:",module,Magento_Checkout
 "edit","edit",module,Magento_Checkout
-"Order Summary","Order Summary",module,Magento_Checkout
+"Order Summary","Prehľad Objednávky",module,Magento_Checkout
 "View and Edit Cart","Zobraziť košík",module,Magento_Checkout
 "View Details","Zobraziť podrobnosti",module,Magento_Checkout
 "Field ","Field ",module,Magento_Checkout
@@ -3344,7 +3344,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice.",module,Magento_Checkout
 "New Address","New Address",module,Magento_Checkout
 "Are you sure you would like to remove this item from the shopping cart?","Are you sure you would like to remove this item from the shopping cart?",module,Magento_Checkout
-"Review & Payments","Review & Payments",module,Magento_Checkout
+"Review & Payments","Prehľad & Platby",module,Magento_Checkout
 "Select a new payment method","Select a new payment method",module,Magento_Checkout
 "Shipping","Doprava",module,Magento_Checkout
 "Save Address","Uložiť adresu",module,Magento_Checkout
@@ -4085,7 +4085,7 @@ for the following reason:",module,Magento_Company
 "This customer is a user of a different company. If you proceed, the customer will be unlinked from the current company and linked to the selected company.","This customer is a user of a different company. If you proceed, the customer will be unlinked from the current company and linked to the selected company.",module,Magento_Company
 "Change Company?","Change Company?",module,Magento_Company
 "Associate to Company","Associate to Company",module,Magento_Company
-"My Orders","My Orders",module,Magento_Company
+"My Orders","Moje Objednávky",module,Magento_Company
 "Create New Customer","Create New Customer",module,Magento_Company
 "Create New Company Account","Create New Company Account",module,Magento_Company
 "Name","Meno",module,Magento_Company
@@ -6042,7 +6042,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "All Files","Všetky súbory",module,Magento_Downloadable
 "Unlimited","Unlimited",module,Magento_Downloadable
 "Something went wrong while getting the requested content.","Something went wrong while getting the requested content.",module,Magento_Downloadable
-"My Downloadable Products","My Downloadable Products",module,Magento_Downloadable
+"My Downloadable Products","Moje Produkty na Prevzatie",module,Magento_Downloadable
 "We can't find the link you requested.","We can't find the link you requested.",module,Magento_Downloadable
 "Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Please sign in to download your product or purchase <a href=""%1"">%2</a>.",module,Magento_Downloadable
 "Please sign in to download your product.","Please sign in to download your product.",module,Magento_Downloadable
@@ -8483,7 +8483,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Amount Discount","Amount Discount",module,Magento_NegotiableQuote
 "Proposed Price","Proposed Price",module,Magento_NegotiableQuote
 "Quote Subtotal","Quote Subtotal",module,Magento_NegotiableQuote
-"My Orders","My Orders",module,Magento_NegotiableQuote
+"My Orders","Moje Objednávky",module,Magento_NegotiableQuote
 "My Quotes","My Quotes",module,Magento_NegotiableQuote
 "created quote","created quote",module,Magento_NegotiableQuote
 "closed quote","closed quote",module,Magento_NegotiableQuote
@@ -8743,7 +8743,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Order Placed From Quote:","Order Placed From Quote:",module,Magento_NegotiableQuote
 "Cannot Open the Quote","Cannot Open the Quote",module,Magento_NegotiableQuote
 "This quote cannot be viewed at the current website. Would you like to navigate to the website where you created this quote?","This quote cannot be viewed at the current website. Would you like to navigate to the website where you created this quote?",module,Magento_NegotiableQuote
-"Show My Orders","Show My Orders",module,Magento_NegotiableQuote
+"Show My Orders","Zobraziť Moje Objednávky",module,Magento_NegotiableQuote
 "Show All Orders","Show All Orders",module,Magento_NegotiableQuote
 "Merge","Merge",module,Magento_NegotiableQuote
 "Replace","Replace",module,Magento_NegotiableQuote
@@ -9090,7 +9090,7 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Minimum Order Total","Minimálna suma objednávky",module,Magento_OfflinePayments
 "Maximum Order Total","Maximálna suma objednávky",module,Magento_OfflinePayments
 "Purchase Order","Purchase Order",module,Magento_OfflinePayments
-"Bank Transfer Payment","Bank Transfer Payment",module,Magento_OfflinePayments
+"Bank Transfer Payment","Platba Prevodom",module,Magento_OfflinePayments
 "Instructions","Instructions",module,Magento_OfflinePayments
 "Cash On Delivery Payment","Cash On Delivery Payment",module,Magento_OfflinePayments
 "Zero Subtotal Checkout","Zero Subtotal Checkout",module,Magento_OfflinePayments
@@ -10809,11 +10809,11 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Product Views Report","Product Views Report",module,Magento_Reports
 "An error occurred while showing the product views report. Please review the log and try again.","An error occurred while showing the product views report. Please review the log and try again.",module,Magento_Reports
 "Review","Review",module,Magento_Reports
-"Reviews","Reviews",module,Magento_Reports
+"Reviews","Recenzie",module,Magento_Reports
 "Customers Report","Customers Report",module,Magento_Reports
 "Customer Reviews Report","Customer Reviews Report",module,Magento_Reports
 "Product Reviews Report","Product Reviews Report",module,Magento_Reports
-"Product Reviews","Product Reviews",module,Magento_Reports
+"Product Reviews","Recenzie Produktu",module,Magento_Reports
 "Details","Podrobnosti",module,Magento_Reports
 "Sales","Sales",module,Magento_Reports
 "Bestsellers Report","Bestsellers Report",module,Magento_Reports
@@ -11083,7 +11083,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Is Active","Is Active",module,Magento_Review
 "Sort Order","Poradie radenia",module,Magento_Review
 "Rating Information","Rating Information",module,Magento_Review
-"Product Reviews","Product Reviews",module,Magento_Review
+"Product Reviews","Recenzie Produktov",module,Magento_Review
 "Pending product review(s)","Pending product review(s)",module,Magento_Review
 "Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","Product: <a href=""%1"" target=""_blank"">%2</a> <br/>",module,Magento_Review
 "Summary of review: %1 <br/>","Summary of review: %1 <br/>",module,Magento_Review
@@ -11093,7 +11093,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Product: ""%1"" reviewed by: %2","Product: ""%1"" reviewed by: %2",module,Magento_Review
 "Pending Reviews RSS","Pending Reviews RSS",module,Magento_Review
 "Reviews %1","Reviews %1",module,Magento_Review
-"Reviews","Reviews",module,Magento_Review
+"Reviews","Recenzie",module,Magento_Review
 "The review has been deleted.","The review has been deleted.",module,Magento_Review
 "Something went wrong  deleting this review.","Something went wrong  deleting this review.",module,Magento_Review
 "Customer Reviews","Customer Reviews",module,Magento_Review
@@ -11949,10 +11949,10 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Value","Value",module,Magento_Sales
 "We found an invalid entity model.","We found an invalid entity model.",module,Magento_Sales
 "Order # %1","Order # %1",module,Magento_Sales
-"Back to My Orders","Back to My Orders",module,Magento_Sales
+"Back to My Orders","Späť na Moje Objednávky",module,Magento_Sales
 "View Another Order","View Another Order",module,Magento_Sales
 "About Your Refund","About Your Refund",module,Magento_Sales
-"My Orders","My Orders",module,Magento_Sales
+"My Orders","Moje Objednávky",module,Magento_Sales
 "Subscribe to Order Status","Subscribe to Order Status",module,Magento_Sales
 "About Your Invoice","About Your Invoice",module,Magento_Sales
 "Print Order # %1","Print Order # %1",module,Magento_Sales
@@ -12254,7 +12254,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Complete","Complete",module,Magento_Sales
 "Closed","Zatvorené",module,Magento_Sales
 "Suspected Fraud","Suspected Fraud",module,Magento_Sales
-"Payment Review","Payment Review",module,Magento_Sales
+"Payment Review","Prehľad Platby",module,Magento_Sales
 "New","New",module,Magento_Sales
 "Product doesn't exist","Product doesn't exist",module,Magento_Sales
 "test message","test message",module,Magento_Sales
@@ -13477,7 +13477,7 @@ configuring in shared catalogs will not be restricted to customers.",module,Mage
 "Show Packages","Show Packages",module,Magento_Shipping
 "About Your Shipment","About Your Shipment",module,Magento_Shipping
 "Order # %1","Order # %1",module,Magento_Shipping
-"Back to My Orders","Back to My Orders",module,Magento_Shipping
+"Back to My Orders","Späť na Moje Objednávky",module,Magento_Shipping
 "View Another Order","View Another Order",module,Magento_Shipping
 "Please enter a comment.","Please enter a comment.",module,Magento_Shipping
 "Cannot add new comment.","Cannot add new comment.",module,Magento_Shipping
@@ -15563,12 +15563,12 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Wrong request.","Wrong request.",module,Magento_Vault
 "Deletion failure. Please try again.","Deletion failure. Please try again.",module,Magento_Vault
 "Stored Payment Method was successfully removed","Stored Payment Method was successfully removed",module,Magento_Vault
-"Stored Payment Methods","Stored Payment Methods",module,Magento_Vault
+"Stored Payment Methods","Uložené Spôsoby Platby",module,Magento_Vault
 "No available payment tokens for specified order payment.","No available payment tokens for specified order payment.",module,Magento_Vault
 "Card Number","Číslo karty",module,Magento_Vault
 "Expiration Date","Dátum expirácie",module,Magento_Vault
 "Type","Typ",module,Magento_Vault
-"You have no stored payment methods.","You have no stored payment methods.",module,Magento_Vault
+"You have no stored payment methods.","Nemáte uložené žiadne spôsoby platby.",module,Magento_Vault
 "ending","ending",module,Magento_Vault
 "Actions","Akcie",module,Magento_Vault
 "Delete","Zmazať",module,Magento_Vault
@@ -16223,73 +16223,73 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transaction has been declined",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"Summary","Zhrnutie",theme,frontend\Magento\blank
-"Account Dashboard","Prehľad účtu",theme,frontend\Magento\blank
-"Account Information","Informácie o účte",theme,frontend\Magento\blank
-"Address Book","Adresár",theme,frontend\Magento\blank
-"Menu","Ponuka",theme,frontend\Magento\blank
-"Account","Účet",theme,frontend\Magento\blank
-"Settings","Nastavenia",theme,frontend\Magento\blank
-"Now Shopping by","Filtrovať podľa",theme,frontend\Magento\luma
-"Previous","Predchádzajúca",theme,frontend\Magento\luma
-"Remove","Odstrániť",theme,frontend\Magento\luma
-"Remove This Item","Odstrániť túto položku",theme,frontend\Magento\luma
-"Shop By","Nakupovať podľa",theme,frontend\Magento\luma
-"Clear All","Vymazať všetky",theme,frontend\Magento\luma
-"Shopping Options","Nákupné možnosti",theme,frontend\Magento\luma
-"Welcome to %store_name","Vitajte v %store_name",theme,frontend\Magento\luma
-"%name,","%name,",theme,frontend\Magento\luma
-"Welcome to %store_name.","Vitajte na %store_name.",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pre prihlásenie sa na naších stránkach, zadajte údaje v procesu objednávky alebo na stránke <a href=""%customer_url"">Môj účet</a>:",theme,frontend\Magento\luma
-"Email:","E-mail:",theme,frontend\Magento\luma
-"Password:","Heslo:",theme,frontend\Magento\luma
-"Password you set when creating account","Heslo nastavené pri vytváraní účtu",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zabudli ste heslo k vášmu účtu? Kliknutím na následujúci odkaz ho <a href=""%reset_url"">resetujete</a>.",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","Po prihlásení do svojho účtu, budete môcť:",theme,frontend\Magento\luma
-"Quick Checkout","Objednať bez registrácie",theme,frontend\Magento\luma
-"Proceed through checkout faster","Rýchľejšie objednanie",theme,frontend\Magento\luma
-"Order Status","Stav objednávky",theme,frontend\Magento\luma
-"Check the status of orders","Skontrolovať stavy objednáviek",theme,frontend\Magento\luma
-"Manage Addresses","Upraviť adresy",theme,frontend\Magento\luma
-"Store alternative addresses","Uloženie alternatívnych adries",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","Pre doručenie ďalším členom rodiny a priateľom",theme,frontend\Magento\luma
-"Order History","História objednávok",theme,frontend\Magento\luma
-"View past orders","Zobraziť staršie objednávky",theme,frontend\Magento\luma
-"Footer","Pätička",theme,frontend\Magento\luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend\Magento\luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend\Magento\luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend\Magento\luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Otváracie hodiny:<br><span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","Ďakujeme vám za vašu objednávku od %store_name.",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Stav svojej objednávky môžete skontrolovať po <a href=""%account_url"">prihlásení do vášho účtu</a>.",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Ak máte otázky týkajúce sa vašej objednávky, môžete nám poslať email na <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Váš úver Záznam kreditu #%creditmemo_id pre objednávku #%order_id",theme,frontend\Magento\luma
-"Billing Info","Fakturačné informácie",theme,frontend\Magento\luma
-"Shipping Info","Doručovacie informácie",theme,frontend\Magento\luma
-"Payment Method","Spôsob platby",theme,frontend\Magento\luma
-"Shipping Method","Spôsob dopravy",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Vaša objednávka #%increment_id bola aktualizovaná na stav <strong>%order_status</strong>.",theme,frontend\Magento\luma
-"Invoice for your %store_name order","Faktúra za Vašu %store_name objednávku",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","Vaša faktúra #%invoice_id pre objednávku #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name invoice","Aktualizácia Vašej %store_name faktúry",theme,frontend\Magento\luma
-"Your %store_name order confirmation","Potvrdenie Vašej %store_name objednávky",theme,frontend\Magento\luma
-"%customer_name,","%customer_name,",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","Akonáhle Váš balík odošleme, zašleme Vám sledovacie číslo.",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Vaša objednávka <span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","Vytvorená <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
-"Update to your %store_name order","Aktualizácia Vašej %store_name objednávky",theme,frontend\Magento\luma
-"Your %store_name order has shipped","Vaša %store_name objednávka bola odoslaná",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","Nižšie je Vaša potvrdenie o odoslaní. Děkuji za vaše podnikanie.",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","Odosolanie #%shipment_id pre objednávku #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name shipment","Aktualizujte vašu zásielku %store_name",theme,frontend\Magento\luma
-"Account Dashboard","Prehľad účtu",theme,frontend\Magento\luma
-"Address Book","Adresár",theme,frontend\Magento\luma
-"Account Information","Informácie o účte",theme,frontend\Magento\luma
-"About Us","O nás",theme,frontend\Magento\luma
-"Customer Service","Zákaznícky servis",theme,frontend\Magento\luma
-"My Account","Môj účet",theme,frontend\Magento\luma
+"Summary","Zhrnutie",theme,frontend/Magento/blank
+"Account Dashboard","Prehľad účtu",theme,frontend/Magento/blank
+"Account Information","Informácie o účte",theme,frontend/Magento/blank
+"Address Book","Adresár",theme,frontend/Magento/blank
+"Menu","Ponuka",theme,frontend/Magento/blank
+"Account","Účet",theme,frontend/Magento/blank
+"Settings","Nastavenia",theme,frontend/Magento/blank
+"Now Shopping by","Filtrovať podľa",theme,frontend/Magento/luma
+"Previous","Predchádzajúca",theme,frontend/Magento/luma
+"Remove","Odstrániť",theme,frontend/Magento/luma
+"Remove This Item","Odstrániť túto položku",theme,frontend/Magento/luma
+"Shop By","Nakupovať podľa",theme,frontend/Magento/luma
+"Clear All","Vymazať všetky",theme,frontend/Magento/luma
+"Shopping Options","Nákupné možnosti",theme,frontend/Magento/luma
+"Welcome to %store_name","Vitajte v %store_name",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
+"Welcome to %store_name.","Vitajte na %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pre prihlásenie sa na naších stránkach, zadajte údaje v procesu objednávky alebo na stránke <a href=""%customer_url"">Môj účet</a>:",theme,frontend/Magento/luma
+"Email:","E-mail:",theme,frontend/Magento/luma
+"Password:","Heslo:",theme,frontend/Magento/luma
+"Password you set when creating account","Heslo nastavené pri vytváraní účtu",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zabudli ste heslo k vášmu účtu? Kliknutím na následujúci odkaz ho <a href=""%reset_url"">resetujete</a>.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","Po prihlásení do svojho účtu, budete môcť:",theme,frontend/Magento/luma
+"Quick Checkout","Objednať bez registrácie",theme,frontend/Magento/luma
+"Proceed through checkout faster","Rýchľejšie objednanie",theme,frontend/Magento/luma
+"Order Status","Stav objednávky",theme,frontend/Magento/luma
+"Check the status of orders","Skontrolovať stavy objednáviek",theme,frontend/Magento/luma
+"Manage Addresses","Upraviť adresy",theme,frontend/Magento/luma
+"Store alternative addresses","Uloženie alternatívnych adries",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","Pre doručenie ďalším členom rodiny a priateľom",theme,frontend/Magento/luma
+"Order History","História objednávok",theme,frontend/Magento/luma
+"View past orders","Zobraziť staršie objednávky",theme,frontend/Magento/luma
+"Footer","Pätička",theme,frontend/Magento/luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend/Magento/luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend/Magento/luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend/Magento/luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Otváracie hodiny:<br><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Ďakujeme vám za vašu objednávku od %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Stav svojej objednávky môžete skontrolovať po <a href=""%account_url"">prihlásení do vášho účtu</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Ak máte otázky týkajúce sa vašej objednávky, môžete nám poslať email na <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Váš úver Záznam kreditu #%creditmemo_id pre objednávku #%order_id",theme,frontend/Magento/luma
+"Billing Info","Fakturačné informácie",theme,frontend/Magento/luma
+"Shipping Info","Doručovacie informácie",theme,frontend/Magento/luma
+"Payment Method","Spôsob platby",theme,frontend/Magento/luma
+"Shipping Method","Spôsob dopravy",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Vaša objednávka #%increment_id bola aktualizovaná na stav <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Faktúra za Vašu %store_name objednávku",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Vaša faktúra #%invoice_id pre objednávku #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Aktualizácia Vašej %store_name faktúry",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Potvrdenie Vašej %store_name objednávky",theme,frontend/Magento/luma
+"%customer_name,","%customer_name,",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Akonáhle Váš balík odošleme, zašleme Vám sledovacie číslo.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Vaša objednávka <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Vytvorená <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","Aktualizácia Vašej %store_name objednávky",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Vaša %store_name objednávka bola odoslaná",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Nižšie je Vaša potvrdenie o odoslaní. Děkuji za vaše podnikanie.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Odosolanie #%shipment_id pre objednávku #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Aktualizujte vašu zásielku %store_name",theme,frontend/Magento/luma
+"Account Dashboard","Prehľad účtu",theme,frontend/Magento/luma
+"Address Book","Adresár",theme,frontend/Magento/luma
+"Account Information","Informácie o účte",theme,frontend/Magento/luma
+"About Us","O nás",theme,frontend/Magento/luma
+"Customer Service","Zákaznícky servis",theme,frontend/Magento/luma
+"My Account","Môj účet",theme,frontend/Magento/luma
 "Backup options","Možnosti zálohovania",lib,web
 "Warning","Upozornenie",lib,web
 "Cancel","Zrušiť",lib,web
