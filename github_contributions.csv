@@ -1,1 +1,14 @@
-Mageplaza,Mageplaza
+"My Orders","Moje objednávky",module,Magento_Company
+"You have placed no orders.","Nemáte žiadne objednávky.",module,Magento_Sales
+"Wish List","Zoznam prianí",module,Magento_Wishlist
+"My Wish List","Zoznam mojich prianí",module,Magento_Wishlist
+"You have no items in your wish list.","V zozname prianí nemáte žiadne položky.",module,Magento_Wishlist
+"My Downloadable Products","Moje produkty na stiahnutie",module,Magento_Downloadable
+"You have not purchased any downloadable products yet.","Zatiaľ ste nezakúpili žiadne produkty na stiahnutie.",module,Magento_Downloadable
+"Stored Payment Methods","Uložené spôsoby platby",module,Magento_Vault
+"You have no stored payment methods.","Nemáte uložené žiadne spôsoby platby.",module,Magento_Vault
+"My Product Reviews","Moje recenzie produktov",module,Magento_Review
+"You have submitted no reviews.","Neodoslali ste žiadne recenzie.",module,Magento_Review
+"Newsletter Subscription","Odoberanie noviniek",module,Magento_Sales
+"Subscription option","Nastavenie odoberania noviniek",module,Magento_Customer
+"General Subscription","Všeobecné odoberanie noviniek",module,Magento_Customer
