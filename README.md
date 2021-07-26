@@ -1,8 +1,6 @@
 ## Magento 2 Slovak Language Pack
 
-Basing on Magento 2 Translation Pack at Crowdin, **Magento 2 Slovak Language Pack** is buit by Mageplaza team to promote the performance of your storefront when you want to develop the own eCommerce business in the Slovakia market. Rather than the English language, you should consider Slovak language to apporach the domestic customers.
-
-Magento 2 Slovak Language Package gives you full of the guides for this in-line translation. Thus, it is time to follow them carefully in order to become more good-natured with the Slovak culture. That is also great idea to boost your online sales in Slovakia by the impressive way.
+Basing on Magento 2 Translation Pack at Crowdin, **Magento 2 Slovak Language Pack** is buit by Mageplaza team to promote the performance of your storefront when you want to develop the own eCommerce business in the Slovakia market. Rather than the English language, you should consider Slovak language to apporach the domestic customers. Magento 2 Slovak Language Package gives you full of the guides for this in-line translation. Thus, it is time to follow them carefully in order to become more good-natured with the Slovak culture. That is also great idea to boost your online sales in Slovakia by the impressive way.
 
 Read more [Magento 2 Slovak Language Pack](https://www.mageplaza.com/magento-2-slovak-language-pack.html)
 
@@ -29,7 +27,7 @@ It is not fully translated? Feel free to contribute:
 - [On Github](https://github.com/mageplaza/magento-2-slovak-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
-Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
+Find other [language packs here](https://www.mageplaza.com/magento-2-extensions/language-packs.html)
 
 ## 2. How to Install Slovak Language Pack
 
@@ -40,17 +38,17 @@ Install the Slovak language pack via composer is never easier.
 
 **Install Slovak pack**:
 
-With Social Proof (recommend):
+With Marketing Automation (recommend):
 
 ```
-composer require mageplaza/magento-2-slovak-language-pack:dev-master avada/module-proofo
+composer require mageplaza/magento-2-slovak-language-pack:dev-master mageplaza/module-smtp 
 php bin/magento setup:static-content:deploy sk_SK
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
 ```
 
-Without Social Proof:
+Without Marketing Automation:
 
 ```
 composer require mageplaza/magento-2-slovak-language-pack:dev-master
@@ -166,6 +164,7 @@ It supports all Magento 2 versions include [Magento 2 open-source](https://www.m
 - Magento v2.1.x
 - Magento v2.2.x
 - Magento v2.3.x
+- Magento v2.4.x
 
 
 
