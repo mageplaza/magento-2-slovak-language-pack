@@ -15137,55 +15137,55 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transaction has been declined",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"My Account","My Account",theme,frontend\Magento\blank
-"Now Shopping by","Filtrovať podľa",theme,frontend\Magento\luma
-"Previous","Predchádzajúca",theme,frontend\Magento\luma
-"Remove","Odstrániť",theme,frontend\Magento\luma
-"Remove This Item","Odstrániť túto položku",theme,frontend\Magento\luma
-"Shop By","Nakupovať podľa",theme,frontend\Magento\luma
-"Clear All","Vymazať všetky",theme,frontend\Magento\luma
-"Shopping Options","Nákupné možnosti",theme,frontend\Magento\luma
-"Welcome to %store_name","Vitajte v %store_name",theme,frontend\Magento\luma
-"%name,","%name,",theme,frontend\Magento\luma
-"Welcome to %store_name.","Vitajte na %store_name.",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pre prihlásenie sa na naších stránkach, zadajte údaje v procesu objednávky alebo na stránke <a href=""%customer_url"">Môj účet</a>:",theme,frontend\Magento\luma
-"Email:","E-mail:",theme,frontend\Magento\luma
-"Password:","Heslo:",theme,frontend\Magento\luma
-"Password you set when creating account","Heslo nastavené pri vytváraní účtu",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zabudli ste heslo k vášmu účtu? Kliknutím na následujúci odkaz ho <a href=""%reset_url"">resetujete</a>.",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","Po prihlásení do svojho účtu, budete môcť:",theme,frontend\Magento\luma
-"Quick Checkout","Objednať bez registrácie",theme,frontend\Magento\luma
-"Proceed through checkout faster","Rýchľejšie objednanie",theme,frontend\Magento\luma
-"Order Status","Stav objednávky",theme,frontend\Magento\luma
-"Check the status of orders","Skontrolovať stavy objednáviek",theme,frontend\Magento\luma
-"Manage Addresses","Upraviť adresy",theme,frontend\Magento\luma
-"Store alternative addresses","Uloženie alternatívnych adries",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","Pre doručenie ďalším členom rodiny a priateľom",theme,frontend\Magento\luma
-"Order History","História objednávok",theme,frontend\Magento\luma
-"View past orders","Zobraziť staršie objednávky",theme,frontend\Magento\luma
-"Footer","Pätička",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","Ďakujeme vám za vašu objednávku od %store_name.",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Stav svojej objednávky môžete skontrolovať po <a href=""%account_url"">prihlásení do vášho účtu</a>.",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Ak máte otázky týkajúce sa vašej objednávky, môžete nám poslať email na <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Váš úver Záznam kreditu #%creditmemo_id pre objednávku #%order_id",theme,frontend\Magento\luma
-"Billing Info","Fakturačné informácie",theme,frontend\Magento\luma
-"Payment Method","Spôsob platby",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Vaša objednávka #%increment_id bola aktualizovaná na stav <strong>%order_status</strong>.",theme,frontend\Magento\luma
-"Invoice for your %store_name order","Faktúra za Vašu %store_name objednávku",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","Vaša faktúra #%invoice_id pre objednávku #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name invoice","Aktualizácia Vašej %store_name faktúry",theme,frontend\Magento\luma
-"Your %store_name order confirmation","Potvrdenie Vašej %store_name objednávky",theme,frontend\Magento\luma
-"%customer_name,","%customer_name,",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","Akonáhle Váš balík odošleme, zašleme Vám sledovacie číslo.",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Vaša objednávka <span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","Vytvorená <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
-"Update to your %store_name order","Aktualizácia Vašej %store_name objednávky",theme,frontend\Magento\luma
-"Your %store_name order has shipped","Vaša %store_name objednávka bola odoslaná",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","Nižšie je Vaša potvrdenie o odoslaní. Děkuji za vaše podnikanie.",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","Odosolanie #%shipment_id pre objednávku #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name shipment","Aktualizujte vašu zásielku %store_name",theme,frontend\Magento\luma
+"My Account","My Account",theme,frontend/Magento/blank
+"Now Shopping by","Filtrovať podľa",theme,frontend/Magento/luma
+"Previous","Predchádzajúca",theme,frontend/Magento/luma
+"Remove","Odstrániť",theme,frontend/Magento/luma
+"Remove This Item","Odstrániť túto položku",theme,frontend/Magento/luma
+"Shop By","Nakupovať podľa",theme,frontend/Magento/luma
+"Clear All","Vymazať všetky",theme,frontend/Magento/luma
+"Shopping Options","Nákupné možnosti",theme,frontend/Magento/luma
+"Welcome to %store_name","Vitajte v %store_name",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
+"Welcome to %store_name.","Vitajte na %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pre prihlásenie sa na naších stránkach, zadajte údaje v procesu objednávky alebo na stránke <a href=""%customer_url"">Môj účet</a>:",theme,frontend/Magento/luma
+"Email:","E-mail:",theme,frontend/Magento/luma
+"Password:","Heslo:",theme,frontend/Magento/luma
+"Password you set when creating account","Heslo nastavené pri vytváraní účtu",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zabudli ste heslo k vášmu účtu? Kliknutím na následujúci odkaz ho <a href=""%reset_url"">resetujete</a>.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","Po prihlásení do svojho účtu, budete môcť:",theme,frontend/Magento/luma
+"Quick Checkout","Objednať bez registrácie",theme,frontend/Magento/luma
+"Proceed through checkout faster","Rýchľejšie objednanie",theme,frontend/Magento/luma
+"Order Status","Stav objednávky",theme,frontend/Magento/luma
+"Check the status of orders","Skontrolovať stavy objednáviek",theme,frontend/Magento/luma
+"Manage Addresses","Upraviť adresy",theme,frontend/Magento/luma
+"Store alternative addresses","Uloženie alternatívnych adries",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","Pre doručenie ďalším členom rodiny a priateľom",theme,frontend/Magento/luma
+"Order History","História objednávok",theme,frontend/Magento/luma
+"View past orders","Zobraziť staršie objednávky",theme,frontend/Magento/luma
+"Footer","Pätička",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Ďakujeme vám za vašu objednávku od %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Stav svojej objednávky môžete skontrolovať po <a href=""%account_url"">prihlásení do vášho účtu</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Ak máte otázky týkajúce sa vašej objednávky, môžete nám poslať email na <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Váš úver Záznam kreditu #%creditmemo_id pre objednávku #%order_id",theme,frontend/Magento/luma
+"Billing Info","Fakturačné informácie",theme,frontend/Magento/luma
+"Payment Method","Spôsob platby",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Vaša objednávka #%increment_id bola aktualizovaná na stav <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Faktúra za Vašu %store_name objednávku",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Vaša faktúra #%invoice_id pre objednávku #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Aktualizácia Vašej %store_name faktúry",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Potvrdenie Vašej %store_name objednávky",theme,frontend/Magento/luma
+"%customer_name,","%customer_name,",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Akonáhle Váš balík odošleme, zašleme Vám sledovacie číslo.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Vaša objednávka <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Vytvorená <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","Aktualizácia Vašej %store_name objednávky",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Vaša %store_name objednávka bola odoslaná",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Nižšie je Vaša potvrdenie o odoslaní. Děkuji za vaše podnikanie.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Odosolanie #%shipment_id pre objednávku #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Aktualizujte vašu zásielku %store_name",theme,frontend/Magento/luma
 "Details","Details",lib,web
 "Warning: No message defined for %s","Warning: No message defined for %s",lib,web
 "Backup options","Možnosti zálohovania",lib,web
