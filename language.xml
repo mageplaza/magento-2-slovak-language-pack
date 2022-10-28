@@ -3,4 +3,5 @@
     <code>sk_SK</code>
     <vendor>mageplaza</vendor>
     <package>sk_sk</package>
+    <use vendor="mageplaza" package="cs_cz"/>
 </language>
